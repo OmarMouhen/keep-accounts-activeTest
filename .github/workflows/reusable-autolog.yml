@@ -1,0 +1,165 @@
+name: reusable-autolog
+
+on:
+  workflow_call:
+  
+    secrets:
+      WORKFLOW_TOKEN:
+        required: true
+      
+      EPICGAMES:
+        required: false
+      MEGA:
+        required: false
+      ONEDRIVE:
+        required: false
+      USR_YAHOO_1:
+        required: false
+      PWD_YAHOO_1:
+        required: false
+      SMU:
+        required: false
+        
+  
+    # inputs in this case are arguments passed from caller workflow
+    inputs:
+    
+      # name of folder to commit csv logfile to
+      folder:
+        required: true
+        type: string
+        
+      # how the caller workflow was triggered (auto or manual)  
+      mode:
+        required: true
+        type: string
+        
+      # account platform name to be reflected in commit message, e.g. OneDrive
+      platform-name:
+        default: ${{ inputs.folder }}
+        type: string
+        
+    
+  
+# Workflow level env variables:
+# Declare GitHub Personal Access Token 
+# and login credentials of each account here
+
+env:
+    WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+    EPICGAMES: ${{ secrets.EPICGAMES }}
+    MEGA: ${{ secrets.MEGA }}
+    ONEDRIVE: ${{ secrets.ONEDRIVE }}
+    USR_YAHOO_1: ${{ secrets.USR_YAHOO_1 }}
+    PWD_YAHOO_1: ${{ secrets.PWD_YAHOO_1 }}
+    SMU: ${{ secrets.SMU }}
+    
+    
+
+jobs:
+  login:
+    runs-on: ubuntu-latest
+
+    steps:
+        - name: Checkout repo content
+          uses: actions/checkout@v3       # checkout repo content of caller workflow to github runner.
+
+        - name: Setup Python
+          uses: actions/setup-python@v4
+#           with:
+#               python-version: 3.9.6
+
+        - name: Setup dependencies
+          run: |
+            pip install python-dotenv
+            pip install playwright
+            playwright install firefox
+            pip install pandas
+            pip install rapidfuzz
+            pip install requests
+# pip install rapidfuzz==2.0.11
+
+        - name: Clone private repo folder
+          run: |
+            git clone \
+            --depth 1 \
+            --filter=blob:none \
+            --sparse \
+            https://${GITHUB_ACTOR}:${{ env.WORKFLOW_TOKEN }}@github.com/${GITHUB_REPOSITORY_OWNER}/login-log \
+            ;
+            cd login-log
+            git sparse-checkout init --cone
+            git sparse-checkout set ${{ inputs.folder }}
+            cd ..
+
+        - name: Run Python script
+          run: python keep-${{ inputs.folder }}-active.py 
+
+        - name: Commit and push folder to private repo if updated
+          run: |
+            cd login-log
+            datestamp=$(date -u +%F)
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+            git add ./${{ inputs.folder }}
+            if ! git diff-index --quiet HEAD; then
+              git commit -m "updated ${{ inputs.platform-name }} logs for ${datestamp} (${{ inputs.mode }})" -- ./${{ inputs.folder }} 
+              git push "https://${GITHUB_ACTOR}:${{ env.WORKFLOW_TOKEN }}@github.com/${GITHUB_REPOSITORY_OWNER}/login-log.git" \
+              HEAD:main || exit 0
+            fi
+            
+            
+  schedule-maintenance:
+    needs: login
+#     if: (needs.login.result == 'success' || needs.login.result == 'failure') && (inputs.folder != 'smu')
+        # always runs after login job regardless of whether login job succeeded.
+        # Does not run for SMU script
+    
+    runs-on: ubuntu-latest
+
+    steps:
+        - name: Checkout repo content
+          uses: actions/checkout@v3
+          with:
+            token: ${{ secrets.WORKFLOW_TOKEN }}
+            
+        - name: Setup Python
+          uses: actions/setup-python@v4
+#           with:
+#               python-version: 3.8.2
+              
+        - name: Setup dependencies
+          run: pip install ruamel.yaml
+          
+        - name: Run reset schedule script
+          id: reset
+          if: needs.login.result == 'success' && inputs.folder != 'smu'
+          run: |
+              export folder=${{ inputs.folder }}
+              python reset-schedule.py
+          
+        - name: Run reschedule script
+          id: reschedule
+          if: needs.login.result == 'failure' && inputs.folder != 'smu'
+          run: |
+              export folder=${{ inputs.folder }}
+              python reschedule-next-run.py
+              
+        - name: Commit and push modified YAML file
+          env:
+              WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+          run: |
+              git config user.name "${GITHUB_ACTOR}"
+              git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+              git pull
+              git add -A
+              if ! git diff-index --quiet HEAD; then
+                if [[ ${{ steps.reset.outcome }} == 'success' ]]; then
+                  git commit -m "login-${{ inputs.folder }}-auto back to normal schedule"
+                elif [[ ${{ steps.reschedule.outcome }} == 'success' ]]; then
+                  git commit -m "rescheduled login-${{ inputs.folder }}-auto"
+                fi
+                git push "https://${GITHUB_ACTOR}:${WORKFLOW_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main || exit 0
+              fi
+    
+# EOF

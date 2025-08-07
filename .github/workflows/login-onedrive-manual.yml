@@ -1,0 +1,63 @@
+# This workflow is manually triggered and will call the reusable workflow.
+name: login-onedrive-manual
+
+
+on:
+  [workflow_dispatch]
+
+
+concurrency:
+  group: login-and-schedule
+  cancel-in-progress: false
+
+
+jobs:
+
+  get-folder-name:
+    runs-on: ubuntu-latest
+    
+    # ---------------------------------------------
+    # DEPRECATED: set-output commands
+    # echo "::set-output name=foldername::$folder"
+    # echo "::set-output name=modename::$mode"
+    # ---------------------------------------------
+    # Solution to pass variables between jobs in a workflow without using artifacts
+    # https://user-images.githubusercontent.com/6890249/181096846-f7fdc90f-8d43-4bb9-9290-fefc9ad0bd84.png
+    # by dimisjim on 11 Mar 2021
+    # https://github.com/orgs/community/discussions/26313
+    
+    outputs:
+          Folder: ${{ steps.getname.outputs.foldername }}
+          Mode: ${{ steps.getmode.outputs.modename }}
+    
+    steps:
+          - name: Get folder name from current workflow name
+            id: getname
+            run: |
+              IFS=-
+              read -ra Arr <<< ${{ github.workflow }}
+              folder=${Arr[1]}
+              echo "::set-output name=foldername::$folder"
+              echo "folder name is $folder"
+              
+          - name: Is the workflow manually or automatically triggered?
+            id: getmode
+            run: |
+              IFS=-
+              read -ra Arr <<< ${{ github.workflow }}
+              mode=${Arr[2]}
+              echo "::set-output name=modename::$mode"
+              echo "Trigger mode: $mode"
+              
+              
+  call-workflow:
+    needs: get-folder-name
+    uses: ./.github/workflows/reusable-autolog.yml
+    with:
+      folder: ${{ needs.get-folder-name.outputs.Folder }}
+      mode: ${{ needs.get-folder-name.outputs.Mode }}
+      platform-name: OneDrive
+    secrets:
+      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+      ONEDRIVE: ${{ secrets.ONEDRIVE }}
+  

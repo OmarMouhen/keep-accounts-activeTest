@@ -1,0 +1,44 @@
+name: reusable-reset
+
+
+on:
+  workflow_call:
+    inputs:
+      folder:
+        required: true
+        type: string
+ 
+
+jobs:
+
+  ensure-default-schedule:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v3
+        
+      - name: Setup Python
+        uses: actions/setup-python@v2
+#         with:
+#             python-version: 3.9.6
+            
+      - name: Run Python script
+        run: |
+            export folder=${{ inputs.folder }}
+            pip install ruamel.yaml
+            python reset-schedule.py
+            
+      - name: Commit and push modified YAML file
+        env:
+            WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+        run: |
+            git config user.name "${GITHUB_ACTOR}"
+            git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+            git add -A
+            if ! git diff-index --quiet HEAD; then
+              git commit -m "login-${{ inputs.folder }}-auto back to normal schedule" 
+              git push "https://${GITHUB_ACTOR}:$WORKFLOW_TOKEN@github.com/${GITHUB_REPOSITORY}.git" HEAD:main || exit 0
+            fi
+    
+# EOF

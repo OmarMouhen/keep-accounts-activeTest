@@ -1,0 +1,59 @@
+# This workflow is automatically triggered and will call the reusable workflow.
+name: login-smu-manual
+
+
+on:
+  - workflow_dispatch
+
+
+
+concurrency:
+  group: login-and-schedule
+  cancel-in-progress: false
+
+
+jobs:
+
+  workflow-info:
+    runs-on: ubuntu-latest
+
+    # Solution to pass variables between jobs in a workflow without using artifacts
+    # https://user-images.githubusercontent.com/6890249/181096846-f7fdc90f-8d43-4bb9-9290-fefc9ad0bd84.png
+    # by dimisjim on 11 Mar 2021
+    # https://github.com/orgs/community/discussions/26313
+    outputs:
+      output1: ${{ steps.getname.outputs.foldername }}
+      output2: ${{ steps.getmode.outputs.modename }}
+
+    steps:
+    - name: Get folder name from current workflow name
+      id: getname
+      run: |
+        IFS=-
+        read -ra Arr <<< ${{ github.workflow }}
+        folder=${Arr[1]}
+        echo "folder name is $folder"
+        echo "::set-output name=foldername::$folder"
+        
+    - name: Is the workflow manually or automatically triggered?
+      id: getmode
+      run: |
+        IFS=-
+        read -ra Arr <<< ${{ github.workflow }}
+        mode=${Arr[2]}
+        echo "Trigger mode: $mode"
+        echo "::set-output name=modename::$mode"
+        
+        
+  call-workflow:
+    needs: workflow-info
+    uses: ./.github/workflows/reusable-autolog.yml
+    with:
+      folder: ${{ needs.workflow-info.outputs.output1 }}
+      mode: ${{ needs.workflow-info.outputs.output2 }}
+      platform-name: SMU
+    secrets:
+      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+      SMU: ${{ secrets.SMU }}
+
+ # EOF 
