@@ -6,8 +6,8 @@ on:
       folder:           { type: string, required: true }
       mode:             { type: string, required: true }
       platform-name:    { type: string, required: true }
-      script-path:      { type: string, required: true }
-      target-branch:    { type: string, required: true }
+      script-path:      { type: string, required: true }  # e.g. keep-mega-active.py
+      target-branch:    { type: string, required: true }  # e.g. main
     secrets:
       WORKFLOW_TOKEN:   { required: true }
       MEGA:             { required: true }
@@ -19,7 +19,7 @@ jobs:
       contents: write
 
     env:
-      TARGET_DIR: ${{ inputs.folder }}-log
+      TARGET_DIR: ${{ inputs.folder }}-log   # e.g. mega-log
       PLATFORM:   ${{ inputs.platform-name }}
 
     steps:
@@ -30,11 +30,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
-      - name: Install requirements (optional)
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Ensure clean target dir
         run: rm -rf "$TARGET_DIR"
@@ -47,7 +42,21 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.WORKFLOW_TOKEN }}
 
+      - name: Install Python dependencies
+        run: |
+          set -e
+          python -m pip install --upgrade pip
+          # If the target repo provides requirements, install them first
+          if [ -f "${{ env.TARGET_DIR }}/requirements.txt" ]; then
+            pip install -r "${{ env.TARGET_DIR }}/requirements.txt"
+          fi
+          # Ensure known deps are present
+          pip install python-dotenv pandas playwright
+          # Install Firefox and required system dependencies for Playwright
+          python -m playwright install --with-deps firefox
+
       - name: Run Python script
+        working-directory: ${{ env.TARGET_DIR }}
         env:
           MEGA: ${{ secrets.MEGA }}
           LOG_DIR: ${{ env.TARGET_DIR }}
@@ -70,6 +79,7 @@ jobs:
             git add -A
             git commit -m "chore: update ${PLATFORM} logs via CI [skip ci]"
             git push origin "$BRANCH"
+            echo "Pushed changes to $BRANCH."
           else
             echo "No changes to commit."
           fi
