@@ -1,0 +1,37 @@
+Date,Time,Level,Message
+2025-08-07,23:03:58:745276,INFO,Launching browser
+2025-08-07,23:04:00:643954,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-07,23:04:03:966645,INFO,Login button clicked
+2025-08-07,23:04:03:966893,INFO,Waiting for homepage to load...
+2025-08-07,23:04:05:671536,INFO,Logged in successfully and homepage loaded.
+2025-08-07,23:04:09:700839,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-07,23:04:09:701065,DEBUG,Profile name: qing chy
+2025-08-07,23:04:09:701199,DEBUG,Email: 
+2025-08-07,23:04:09:701319,DEBUG,Plan: 
+2025-08-07,23:04:09:742496,DEBUG,Cloud drive: 0 MB
+2025-08-07,23:04:09:764501,DEBUG,Backups: 0 MB
+2025-08-07,23:04:09:858753,DEBUG,Versions: (0 B)
+2025-08-07,23:04:09:879735,DEBUG,Rubbish bin: (0 B)
+2025-08-07,23:04:09:901307,DEBUG,Available: (14.98 GB)
+2025-08-07,23:04:09:901794,INFO,Tasks complete. Closing browser.
+2025-08-07,23:04:16:677097,INFO,Launching browser
+2025-08-07,23:04:18:995961,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-07,23:04:23:033555,INFO,Login button clicked
+2025-08-07,23:04:23:033918,INFO,Waiting for homepage to load...
+2025-08-07,23:04:25:643974,INFO,Logged in successfully and homepage loaded.
+2025-08-07,23:04:30:172921,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-07,23:04:30:173345,DEBUG,Profile name: qing chy
+2025-08-07,23:04:30:173559,DEBUG,Email: 
+2025-08-07,23:04:30:173750,DEBUG,Plan: 
+2025-08-07,23:04:30:214129,DEBUG,Cloud drive: 0 MB
+2025-08-07,23:04:30:239033,DEBUG,Backups: 0 MB
+2025-08-07,23:04:30:304592,DEBUG,Versions: (0 B)
+2025-08-07,23:04:30:352310,DEBUG,Rubbish bin: (0 B)
+2025-08-07,23:04:30:371675,DEBUG,Available: (13.16 GB)
+2025-08-07,23:04:30:371851,INFO,Tasks complete. Closing browser.
+2025-08-07,23:04:36:736575,INFO,Launching browser
+2025-08-07,23:04:38:778387,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-07,23:04:39:253792,ERROR,"Exception during login flow: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://mega.nz/login"", waiting until ""load""
+"

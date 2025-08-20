@@ -1,0 +1,306 @@
+Date,Time,Level,Message
+2025-08-14,12:24:29:913689,INFO,Launching browser
+2025-08-14,12:24:32:703100,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:24:36:916601,INFO,Login button clicked
+2025-08-14,12:24:36:916815,INFO,Waiting for homepage to load...
+2025-08-14,12:24:38:906700,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:24:42:763066,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:24:42:763336,DEBUG,Profile name: Elizabeth Horn
+2025-08-14,12:24:42:763494,DEBUG,Email: 
+2025-08-14,12:24:42:763677,DEBUG,Plan: 
+2025-08-14,12:24:42:821386,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:24:42:851702,DEBUG,Backups: 0 MB
+2025-08-14,12:24:42:879906,DEBUG,Versions: 0 MB
+2025-08-14,12:24:42:907142,DEBUG,Rubbish bin: 0 MB
+2025-08-14,12:24:42:953363,ERROR,"Exception during login flow: ElementHandle.inner_text: Execution context was destroyed, most likely because of a navigation
+Call log:
+  - waiting for locator("":scope"")
+"
+2025-08-14,12:24:53:546902,INFO,Launching browser
+2025-08-14,12:24:55:403759,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:24:59:142947,INFO,Login button clicked
+2025-08-14,12:24:59:143303,INFO,Waiting for homepage to load...
+2025-08-14,12:25:01:595479,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:25:05:230261,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:25:05:230515,DEBUG,Profile name: Michael Carrillo
+2025-08-14,12:25:05:230656,DEBUG,Email: 
+2025-08-14,12:25:05:230834,DEBUG,Plan: 
+2025-08-14,12:25:05:320855,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:25:05:474325,DEBUG,Backups: 0 MB
+2025-08-14,12:25:05:502332,DEBUG,Versions: 0 MB
+2025-08-14,12:25:05:531267,DEBUG,Rubbish bin: 0 MB
+2025-08-14,12:25:05:559247,DEBUG,Available: 0 MB
+2025-08-14,12:25:05:559625,INFO,Tasks complete. Closing browser.
+2025-08-14,12:25:12:189728,INFO,Launching browser
+2025-08-14,12:25:14:129279,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:25:17:723633,INFO,Login button clicked
+2025-08-14,12:25:17:723926,INFO,Waiting for homepage to load...
+2025-08-14,12:25:19:718711,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:25:23:387908,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:25:23:388151,DEBUG,Profile name: Ronnie Scott
+2025-08-14,12:25:23:388308,DEBUG,Email: 
+2025-08-14,12:25:23:388516,DEBUG,Plan: 
+2025-08-14,12:25:23:479868,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:25:23:512029,DEBUG,Backups: 0 MB
+2025-08-14,12:25:23:541209,DEBUG,Versions: 0 MB
+2025-08-14,12:25:23:798739,DEBUG,Rubbish bin: (0 B)
+2025-08-14,12:25:23:836855,DEBUG,Available: (20.00 GB)
+2025-08-14,12:25:23:837050,INFO,Tasks complete. Closing browser.
+2025-08-14,12:25:30:789749,INFO,Launching browser
+2025-08-14,12:25:32:716321,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:25:36:233756,INFO,Login button clicked
+2025-08-14,12:25:36:235457,INFO,Waiting for homepage to load...
+2025-08-14,12:25:38:301375,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:26:11:220929,ERROR,"Exception during login flow: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.account.left-pane.info-block.backup-button"") to be visible
+    6 × locator resolved to hidden <div class=""account left-pane info-block backup-button"">…</div>
+    - waiting for"" https://blog.mega.io/?resilience=1"" navigation to finish...
+    - navigated to ""https://blog.mega.io/?resilience=1""
+"
+2025-08-14,12:26:17:702578,INFO,Launching browser
+2025-08-14,12:26:19:535877,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:26:22:876642,INFO,Login button clicked
+2025-08-14,12:26:22:876883,INFO,Waiting for homepage to load...
+2025-08-14,12:26:25:159295,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:26:28:668092,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:26:28:668293,DEBUG,Profile name: Kristin Cole
+2025-08-14,12:26:28:668523,DEBUG,Email: 
+2025-08-14,12:26:28:668805,DEBUG,Plan: 
+2025-08-14,12:26:28:730641,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:26:28:786384,DEBUG,Backups: 0 MB
+2025-08-14,12:26:28:870135,DEBUG,Versions: (0 B)
+2025-08-14,12:26:28:955561,DEBUG,Rubbish bin: (0 B)
+2025-08-14,12:26:28:983224,DEBUG,Available: (20.00 GB)
+2025-08-14,12:26:28:983453,INFO,Tasks complete. Closing browser.
+2025-08-14,12:26:35:543155,INFO,Launching browser
+2025-08-14,12:26:37:093639,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:26:40:567526,INFO,Login button clicked
+2025-08-14,12:26:40:568477,INFO,Waiting for homepage to load...
+2025-08-14,12:26:42:810614,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:26:47:657608,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:26:47:657839,DEBUG,Profile name: Michelle Mccormick
+2025-08-14,12:26:47:658166,DEBUG,Email: jumpymagpie2@somoj.com
+2025-08-14,12:26:47:658411,DEBUG,Plan: Free
+2025-08-14,12:26:47:708996,DEBUG,Cloud drive: (0 B)
+2025-08-14,12:26:47:757820,DEBUG,Backups:  0 MB 
+2025-08-14,12:26:47:785727,DEBUG,Versions: (0 B)
+2025-08-14,12:26:47:960289,DEBUG,Rubbish bin: (0 B)
+2025-08-14,12:26:47:988873,DEBUG,Available: (20.00 GB)
+2025-08-14,12:26:47:989158,INFO,Tasks complete. Closing browser.
+2025-08-14,12:26:54:506334,INFO,Launching browser
+2025-08-14,12:26:56:304966,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:26:59:404985,INFO,Login button clicked
+2025-08-14,12:26:59:405201,INFO,Waiting for homepage to load...
+2025-08-14,12:27:03:599412,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:27:06:693889,ERROR,"Exception during login flow: Page.query_selector: Protocol error (Page.adoptNode): error in channel ""content::10/11/11"": exception while running method ""adoptNode"" in namespace ""page"": Cannot find object with id = id-91 unsafeObject@chrome://juggler/content/content/FrameTree.js:528:11
+_adoptNode@chrome://juggler/content/content/PageAgent.js:356:28
+_onMessageInternal@chrome://juggler/content/SimpleChannel.js:237:37
+_onMessage@chrome://juggler/content/SimpleChannel.js:194:12
+bindToActor/actor.receiveMessage@chrome://juggler/content/SimpleChannel.js:39:44
+"
+2025-08-14,12:27:12:882057,INFO,Launching browser
+2025-08-14,12:27:14:161752,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:27:17:274510,INFO,Login button clicked
+2025-08-14,12:27:17:274804,INFO,Waiting for homepage to load...
+2025-08-14,12:27:19:150998,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:27:22:363348,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:27:22:363565,DEBUG,Profile name: Paul Martinez
+2025-08-14,12:27:22:363679,DEBUG,Email: 
+2025-08-14,12:27:22:363846,DEBUG,Plan: 
+2025-08-14,12:27:22:412443,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:27:22:435417,DEBUG,Backups: 0 MB
+2025-08-14,12:27:22:460353,DEBUG,Versions: 0 MB
+2025-08-14,12:27:22:484364,DEBUG,Rubbish bin: 0 MB
+2025-08-14,12:27:22:509096,DEBUG,Available: 0 MB
+2025-08-14,12:27:22:509313,INFO,Tasks complete. Closing browser.
+2025-08-14,12:27:28:652600,INFO,Launching browser
+2025-08-14,12:27:29:905170,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:27:32:855847,INFO,Login button clicked
+2025-08-14,12:27:32:856296,INFO,Waiting for homepage to load...
+2025-08-14,12:27:34:675844,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:27:37:686785,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:27:37:687051,DEBUG,Profile name: Stacey Murillo
+2025-08-14,12:27:37:687289,DEBUG,Email: 
+2025-08-14,12:27:37:687444,DEBUG,Plan: 
+2025-08-14,12:27:37:783385,DEBUG,Cloud drive: (0 B)
+2025-08-14,12:27:37:804928,DEBUG,Backups:  0 MB 
+2025-08-14,12:27:37:825331,DEBUG,Versions: (0 B)
+2025-08-14,12:27:37:844546,DEBUG,Rubbish bin: (0 B)
+2025-08-14,12:27:37:865736,DEBUG,Available: (20.00 GB)
+2025-08-14,12:27:37:865934,INFO,Tasks complete. Closing browser.
+2025-08-14,12:27:44:065813,INFO,Launching browser
+2025-08-14,12:27:45:438933,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:27:48:658253,INFO,Login button clicked
+2025-08-14,12:27:48:658663,INFO,Waiting for homepage to load...
+2025-08-14,12:27:50:565906,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:28:23:415742,ERROR,"Exception during login flow: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.account.left-pane.info-block.backup-button"") to be visible
+    5 × locator resolved to hidden <div class=""account left-pane info-block backup-button"">…</div>
+    - waiting for"" https://blog.mega.io/?resilience=1"" navigation to finish...
+    - navigated to ""https://blog.mega.io/?resilience=1""
+"
+2025-08-14,12:28:29:579290,INFO,Launching browser
+2025-08-14,12:28:31:117166,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:28:34:359602,INFO,Login button clicked
+2025-08-14,12:28:34:359819,INFO,Waiting for homepage to load...
+2025-08-14,12:28:36:715649,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:28:40:677005,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:28:40:677267,DEBUG,Profile name: Jason Peters
+2025-08-14,12:28:40:677465,DEBUG,Email: betrayedsyrup6@powerscrews.com
+2025-08-14,12:28:40:677713,DEBUG,Plan: Free
+2025-08-14,12:28:40:719504,DEBUG,Cloud drive: (0 B)
+2025-08-14,12:28:40:747651,DEBUG,Backups:  0 MB 
+2025-08-14,12:28:40:766921,DEBUG,Versions: (0 B)
+2025-08-14,12:28:40:786730,DEBUG,Rubbish bin: (0 B)
+2025-08-14,12:28:40:807080,DEBUG,Available: (20.00 GB)
+2025-08-14,12:28:40:807340,INFO,Tasks complete. Closing browser.
+2025-08-14,12:28:47:010503,INFO,Launching browser
+2025-08-14,12:28:48:429132,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:28:51:401604,INFO,Login button clicked
+2025-08-14,12:28:51:401961,INFO,Waiting for homepage to load...
+2025-08-14,12:28:53:208764,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:28:56:411506,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:28:56:411729,DEBUG,Profile name: George Ponce
+2025-08-14,12:28:56:411997,DEBUG,Email: 
+2025-08-14,12:28:56:412242,DEBUG,Plan: 
+2025-08-14,12:28:56:606315,DEBUG,Cloud drive: (0 B)
+2025-08-14,12:28:56:636063,DEBUG,Backups:  0 MB 
+2025-08-14,12:28:56:674444,DEBUG,Versions: (0 B)
+2025-08-14,12:28:56:695364,ERROR,"Exception during login flow: ElementHandle.query_selector: Execution context was destroyed, most likely because of a navigation"
+2025-08-14,12:29:02:834747,INFO,Launching browser
+2025-08-14,12:29:04:141665,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:29:07:129240,INFO,Login button clicked
+2025-08-14,12:29:07:129561,INFO,Waiting for homepage to load...
+2025-08-14,12:29:09:126267,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:29:12:363860,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:29:12:364141,DEBUG,Profile name: Dana Gonzalez
+2025-08-14,12:29:12:364284,DEBUG,Email: 
+2025-08-14,12:29:12:364374,DEBUG,Plan: 
+2025-08-14,12:29:12:422341,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:29:12:448643,DEBUG,Backups: 0 MB
+2025-08-14,12:29:12:477548,DEBUG,Versions: 0 MB
+2025-08-14,12:29:12:529940,DEBUG,Rubbish bin: 0 MB
+2025-08-14,12:29:12:583630,DEBUG,Available: 0 MB
+2025-08-14,12:29:12:583979,INFO,Tasks complete. Closing browser.
+2025-08-14,12:29:18:768660,INFO,Launching browser
+2025-08-14,12:29:20:091597,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:29:23:210986,INFO,Login button clicked
+2025-08-14,12:29:23:211374,INFO,Waiting for homepage to load...
+2025-08-14,12:29:25:139785,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:29:28:563003,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:29:28:563253,DEBUG,Profile name: Jimmy Green
+2025-08-14,12:29:28:563509,DEBUG,Email: 
+2025-08-14,12:29:28:563820,DEBUG,Plan: 
+2025-08-14,12:29:28:762586,DEBUG,Cloud drive: (0 B)
+2025-08-14,12:29:28:792499,DEBUG,Backups:  0 MB 
+2025-08-14,12:29:28:823259,DEBUG,Versions: (0 B)
+2025-08-14,12:29:28:858168,DEBUG,Rubbish bin: (0 B)
+2025-08-14,12:29:28:886157,DEBUG,Available: (20.00 GB)
+2025-08-14,12:29:28:886492,INFO,Tasks complete. Closing browser.
+2025-08-14,12:29:35:174240,INFO,Launching browser
+2025-08-14,12:29:36:639911,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:29:39:741479,INFO,Login button clicked
+2025-08-14,12:29:39:741748,INFO,Waiting for homepage to load...
+2025-08-14,12:29:41:608039,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:29:44:955863,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:29:44:956171,DEBUG,Profile name: Christina Stephens
+2025-08-14,12:29:44:956429,DEBUG,Email: 
+2025-08-14,12:29:44:956699,DEBUG,Plan: 
+2025-08-14,12:29:45:011347,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:29:45:040645,DEBUG,Backups: 0 MB
+2025-08-14,12:29:45:072030,DEBUG,Versions: 0 MB
+2025-08-14,12:29:45:097925,ERROR,"Exception during login flow: ElementHandle.query_selector: Execution context was destroyed, most likely because of a navigation"
+2025-08-14,12:29:51:305989,INFO,Launching browser
+2025-08-14,12:29:52:726240,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:29:55:694558,INFO,Login button clicked
+2025-08-14,12:29:55:694819,INFO,Waiting for homepage to load...
+2025-08-14,12:29:57:489151,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:30:00:633992,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:30:00:634217,DEBUG,Profile name: Billy Elliott
+2025-08-14,12:30:00:634358,DEBUG,Email: 
+2025-08-14,12:30:00:634515,DEBUG,Plan: 
+2025-08-14,12:30:00:694044,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:30:00:729303,DEBUG,Backups: 0 MB
+2025-08-14,12:30:00:758737,DEBUG,Versions: 0 MB
+2025-08-14,12:30:00:809715,DEBUG,Rubbish bin: 0 MB
+2025-08-14,12:30:00:909057,DEBUG,Available: (20.00 GB)
+2025-08-14,12:30:00:909340,INFO,Tasks complete. Closing browser.
+2025-08-14,12:30:07:083421,INFO,Launching browser
+2025-08-14,12:30:08:551169,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:30:11:506804,INFO,Login button clicked
+2025-08-14,12:30:11:507054,INFO,Waiting for homepage to load...
+2025-08-14,12:30:13:310636,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:30:16:586555,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:30:16:587209,DEBUG,Profile name: Mark Bennett
+2025-08-14,12:30:16:587398,DEBUG,Email: 
+2025-08-14,12:30:16:587575,DEBUG,Plan: 
+2025-08-14,12:30:16:646728,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:30:16:689713,ERROR,"Exception during login flow: ElementHandle.inner_text: Execution context was destroyed, most likely because of a navigation
+Call log:
+  - waiting for locator("":scope"")
+"
+2025-08-14,12:30:22:854002,INFO,Launching browser
+2025-08-14,12:30:24:137310,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:30:27:436398,INFO,Login button clicked
+2025-08-14,12:30:27:436628,INFO,Waiting for homepage to load...
+2025-08-14,12:30:29:492887,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:30:32:514769,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:30:32:515088,DEBUG,Profile name: Alexandria Solomon
+2025-08-14,12:30:32:515235,DEBUG,Email: 
+2025-08-14,12:30:32:515392,DEBUG,Plan: 
+2025-08-14,12:30:32:558838,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:30:32:625923,DEBUG,Backups:  0 MB 
+2025-08-14,12:30:32:698990,DEBUG,Versions: (0 B)
+2025-08-14,12:30:32:723727,DEBUG,Rubbish bin: (0 B)
+2025-08-14,12:30:32:743882,DEBUG,Available: (20.00 GB)
+2025-08-14,12:30:32:744109,INFO,Tasks complete. Closing browser.
+2025-08-14,12:30:38:868617,INFO,Launching browser
+2025-08-14,12:30:40:140013,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:30:42:927340,INFO,Login button clicked
+2025-08-14,12:30:42:927653,INFO,Waiting for homepage to load...
+2025-08-14,12:30:44:931258,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:30:48:232448,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:30:48:232997,DEBUG,Profile name: Denise Valencia
+2025-08-14,12:30:48:233835,DEBUG,Email: 
+2025-08-14,12:30:48:233968,DEBUG,Plan: 
+2025-08-14,12:30:48:283756,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:30:48:306782,DEBUG,Backups: 0 MB
+2025-08-14,12:30:48:369702,ERROR,"Exception during login flow: ElementHandle.inner_text: Execution context was destroyed, most likely because of a navigation
+Call log:
+  - waiting for locator("":scope"")
+"
+2025-08-14,12:30:54:506520,INFO,Launching browser
+2025-08-14,12:30:55:790827,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:30:58:723564,INFO,Login button clicked
+2025-08-14,12:30:58:723760,INFO,Waiting for homepage to load...
+2025-08-14,12:31:02:501290,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:31:02:661545,ERROR,"Exception during login flow: Page.goto: NS_BINDING_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to ""https://mega.nz/fm/dashboard"", waiting until ""load""
+"
+2025-08-14,12:31:08:829630,INFO,Launching browser
+2025-08-14,12:31:10:136945,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:31:13:264283,INFO,Login button clicked
+2025-08-14,12:31:13:264563,INFO,Waiting for homepage to load...
+2025-08-14,12:31:16:071975,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:31:16:228325,ERROR,"Exception during login flow: Page.goto: NS_BINDING_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to ""https://mega.nz/fm/dashboard"", waiting until ""load""
+"
+2025-08-14,12:31:22:389653,INFO,Launching browser
+2025-08-14,12:31:23:772403,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-14,12:31:26:892028,INFO,Login button clicked
+2025-08-14,12:31:26:892278,INFO,Waiting for homepage to load...
+2025-08-14,12:31:28:635639,INFO,Logged in successfully and homepage loaded.
+2025-08-14,12:31:31:671297,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-14,12:31:31:671470,DEBUG,Profile name: Peter Owen
+2025-08-14,12:31:31:671671,DEBUG,Email: 
+2025-08-14,12:31:31:671844,DEBUG,Plan: 
+2025-08-14,12:31:31:746100,DEBUG,Cloud drive: 0 MB
+2025-08-14,12:31:31:768730,DEBUG,Backups: 0 MB
+2025-08-14,12:31:31:790065,DEBUG,Versions: 0 MB
+2025-08-14,12:31:31:810825,DEBUG,Rubbish bin: 0 MB
+2025-08-14,12:31:31:833580,DEBUG,Available: 0 MB
+2025-08-14,12:31:31:833792,INFO,Tasks complete. Closing browser.

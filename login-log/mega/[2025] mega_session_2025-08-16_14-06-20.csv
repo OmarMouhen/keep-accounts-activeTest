@@ -1,0 +1,1321 @@
+Date,Time,Level,Message
+2025-08-16,13:06:30:755951,INFO,Launching browser
+2025-08-16,13:06:33:178612,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:06:41:325765,INFO,Login button clicked
+2025-08-16,13:06:41:326038,INFO,Waiting for homepage to load...
+2025-08-16,13:06:46:831651,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:06:55:388193,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:06:55:388523,DEBUG,Profile name: qing chy
+2025-08-16,13:06:55:388769,DEBUG,Email: 
+2025-08-16,13:06:55:388962,DEBUG,Plan: 
+2025-08-16,13:06:55:427290,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:06:55:447367,DEBUG,Backups: 0 MB
+2025-08-16,13:06:55:532023,DEBUG,Versions: (0 B)
+2025-08-16,13:06:55:564266,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:06:55:584531,DEBUG,Available: (19.27 GB)
+2025-08-16,13:06:55:584817,INFO,Tasks complete. Closing browser.
+2025-08-16,13:07:06:419229,INFO,Launching browser
+2025-08-16,13:07:08:301240,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:07:17:810329,INFO,Login button clicked
+2025-08-16,13:07:17:810580,INFO,Waiting for homepage to load...
+2025-08-16,13:07:24:649898,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:07:32:083715,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:07:32:084252,DEBUG,Profile name: Pamela Stein
+2025-08-16,13:07:32:085021,DEBUG,Email: 
+2025-08-16,13:07:32:085249,DEBUG,Plan: 
+2025-08-16,13:07:32:123776,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:07:32:145200,DEBUG,Backups: 0 MB
+2025-08-16,13:07:32:168523,DEBUG,Versions: 0 MB
+2025-08-16,13:07:32:188496,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:07:32:208310,DEBUG,Available: 0 MB
+2025-08-16,13:07:32:208954,INFO,Tasks complete. Closing browser.
+2025-08-16,13:07:38:539400,INFO,Launching browser
+2025-08-16,13:07:40:207841,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:07:48:057912,INFO,Login button clicked
+2025-08-16,13:07:48:058265,INFO,Waiting for homepage to load...
+2025-08-16,13:07:53:246112,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:08:01:990776,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:08:01:991049,DEBUG,Profile name: Natalie Jones
+2025-08-16,13:08:01:991200,DEBUG,Email: 
+2025-08-16,13:08:01:991476,DEBUG,Plan: 
+2025-08-16,13:08:02:052816,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:08:02:084030,DEBUG,Backups: 0 MB
+2025-08-16,13:08:02:111257,DEBUG,Versions: 0 MB
+2025-08-16,13:08:02:139456,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:08:02:160020,DEBUG,Available: 0 MB
+2025-08-16,13:08:02:160218,INFO,Tasks complete. Closing browser.
+2025-08-16,13:08:08:673997,INFO,Launching browser
+2025-08-16,13:08:10:262949,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:08:18:143440,INFO,Login button clicked
+2025-08-16,13:08:18:143623,INFO,Waiting for homepage to load...
+2025-08-16,13:08:23:587204,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:08:31:095154,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:08:31:095671,DEBUG,Profile name: Eric Wise
+2025-08-16,13:08:31:095992,DEBUG,Email: 
+2025-08-16,13:08:31:096567,DEBUG,Plan: 
+2025-08-16,13:08:31:162707,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:08:31:211581,DEBUG,Backups: 0 MB
+2025-08-16,13:08:31:263431,DEBUG,Versions: 0 MB
+2025-08-16,13:08:31:309422,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:08:31:334752,DEBUG,Available: 0 MB
+2025-08-16,13:08:31:335104,INFO,Tasks complete. Closing browser.
+2025-08-16,13:08:37:774719,INFO,Launching browser
+2025-08-16,13:08:39:280415,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:08:46:742266,INFO,Login button clicked
+2025-08-16,13:08:46:742499,INFO,Waiting for homepage to load...
+2025-08-16,13:08:52:123355,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:08:59:067191,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:08:59:067459,DEBUG,Profile name: Christopher Williams
+2025-08-16,13:08:59:067657,DEBUG,Email: 
+2025-08-16,13:08:59:067813,DEBUG,Plan: 
+2025-08-16,13:08:59:118411,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:08:59:151584,DEBUG,Backups: 0 MB
+2025-08-16,13:08:59:180967,DEBUG,Versions: 0 MB
+2025-08-16,13:08:59:208170,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:08:59:232094,DEBUG,Available: 0 MB
+2025-08-16,13:08:59:232388,INFO,Tasks complete. Closing browser.
+2025-08-16,13:09:05:701272,INFO,Launching browser
+2025-08-16,13:09:07:495267,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:09:15:232978,INFO,Login button clicked
+2025-08-16,13:09:15:233237,INFO,Waiting for homepage to load...
+2025-08-16,13:09:22:517220,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:09:30:108641,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:09:30:108941,DEBUG,Profile name: qing chy
+2025-08-16,13:09:30:109165,DEBUG,Email: 
+2025-08-16,13:09:30:109337,DEBUG,Plan: 
+2025-08-16,13:09:30:154186,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:09:30:182370,DEBUG,Backups: 0 MB
+2025-08-16,13:09:30:207781,DEBUG,Versions: 0 MB
+2025-08-16,13:09:30:250062,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:09:30:274067,DEBUG,Available: 0 MB
+2025-08-16,13:09:30:274308,INFO,Tasks complete. Closing browser.
+2025-08-16,13:09:36:780856,INFO,Launching browser
+2025-08-16,13:09:38:466031,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:09:46:633733,INFO,Login button clicked
+2025-08-16,13:09:46:633920,INFO,Waiting for homepage to load...
+2025-08-16,13:09:50:308665,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:09:58:285928,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:09:58:286140,DEBUG,Profile name: qing chy
+2025-08-16,13:09:58:286327,DEBUG,Email: 
+2025-08-16,13:09:58:286418,DEBUG,Plan: Free
+2025-08-16,13:09:58:328079,DEBUG,Cloud drive: (3.69 GB)
+2025-08-16,13:09:58:346860,DEBUG,Backups:  0 MB 
+2025-08-16,13:09:58:370262,DEBUG,Versions: (0 B)
+2025-08-16,13:09:58:393088,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:09:58:411724,DEBUG,Available: (16.31 GB)
+2025-08-16,13:09:58:412030,INFO,Tasks complete. Closing browser.
+2025-08-16,13:10:04:705210,INFO,Launching browser
+2025-08-16,13:10:06:334784,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:10:13:758618,INFO,Login button clicked
+2025-08-16,13:10:13:758837,INFO,Waiting for homepage to load...
+2025-08-16,13:10:20:566082,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:10:28:703749,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:10:28:705016,DEBUG,Profile name: Andrew Martinez
+2025-08-16,13:10:28:705621,DEBUG,Email: 
+2025-08-16,13:10:28:706080,DEBUG,Plan: 
+2025-08-16,13:10:28:788706,DEBUG,Cloud drive: (3.32 GB)
+2025-08-16,13:10:28:812533,DEBUG,Backups:  0 MB 
+2025-08-16,13:10:28:836080,DEBUG,Versions: (0 B)
+2025-08-16,13:10:28:859843,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:10:28:882050,DEBUG,Available: (16.68 GB)
+2025-08-16,13:10:28:882365,INFO,Tasks complete. Closing browser.
+2025-08-16,13:10:35:631241,INFO,Launching browser
+2025-08-16,13:10:37:377089,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:10:45:183654,INFO,Login button clicked
+2025-08-16,13:10:45:183885,INFO,Waiting for homepage to load...
+2025-08-16,13:10:49:889085,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:10:57:973310,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:10:57:973577,DEBUG,Profile name: qing chy
+2025-08-16,13:10:57:973828,DEBUG,Email: 
+2025-08-16,13:10:57:974046,DEBUG,Plan: 
+2025-08-16,13:10:58:098660,DEBUG,Cloud drive: (25.19 GB)
+2025-08-16,13:10:58:127564,DEBUG,Backups:  0 MB 
+2025-08-16,13:10:58:147268,DEBUG,Versions: (0 B)
+2025-08-16,13:10:58:168456,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:10:58:194707,DEBUG,Available: (0 B)
+2025-08-16,13:10:58:195267,INFO,Tasks complete. Closing browser.
+2025-08-16,13:11:04:738133,INFO,Launching browser
+2025-08-16,13:11:06:178727,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:11:13:921887,INFO,Login button clicked
+2025-08-16,13:11:13:922103,INFO,Waiting for homepage to load...
+2025-08-16,13:11:18:797415,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:11:26:851719,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:11:26:851982,DEBUG,Profile name: qing chy
+2025-08-16,13:11:26:852224,DEBUG,Email: 
+2025-08-16,13:11:26:852357,DEBUG,Plan: 
+2025-08-16,13:11:26:917025,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:11:26:938753,DEBUG,Backups: 0 MB
+2025-08-16,13:11:26:957883,DEBUG,Versions: 0 MB
+2025-08-16,13:11:26:989465,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:11:27:071313,DEBUG,Available: 0 MB
+2025-08-16,13:11:27:071643,INFO,Tasks complete. Closing browser.
+2025-08-16,13:11:33:638633,INFO,Launching browser
+2025-08-16,13:11:35:535073,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:11:43:421568,INFO,Login button clicked
+2025-08-16,13:11:43:421882,INFO,Waiting for homepage to load...
+2025-08-16,13:11:49:390579,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:11:58:042366,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:11:58:042797,DEBUG,Profile name: Terry Oconnor
+2025-08-16,13:11:58:043053,DEBUG,Email: 
+2025-08-16,13:11:58:043364,DEBUG,Plan: 
+2025-08-16,13:11:58:097008,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:11:58:131147,DEBUG,Backups: 0 MB
+2025-08-16,13:11:58:203447,DEBUG,Versions: (0 B)
+2025-08-16,13:11:58:225910,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:11:58:252457,DEBUG,Available: (0 B)
+2025-08-16,13:11:58:252745,INFO,Tasks complete. Closing browser.
+2025-08-16,13:12:04:708640,INFO,Launching browser
+2025-08-16,13:12:06:212092,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:12:14:537041,INFO,Login button clicked
+2025-08-16,13:12:14:537317,INFO,Waiting for homepage to load...
+2025-08-16,13:12:29:347168,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:12:37:918513,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:12:37:918718,DEBUG,Profile name: qing chy
+2025-08-16,13:12:37:918882,DEBUG,Email: 
+2025-08-16,13:12:37:919004,DEBUG,Plan: 
+2025-08-16,13:12:37:955224,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:12:37:975243,DEBUG,Backups: 0 MB
+2025-08-16,13:12:38:000117,DEBUG,Versions: 0 MB
+2025-08-16,13:12:38:025181,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:12:38:048253,DEBUG,Available: 0 MB
+2025-08-16,13:12:38:048566,INFO,Tasks complete. Closing browser.
+2025-08-16,13:12:44:515343,INFO,Launching browser
+2025-08-16,13:12:46:238955,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:12:54:054856,INFO,Login button clicked
+2025-08-16,13:12:54:055073,INFO,Waiting for homepage to load...
+2025-08-16,13:12:59:894296,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:13:09:941995,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:13:09:942234,DEBUG,Profile name: qing chy
+2025-08-16,13:13:09:942393,DEBUG,Email: 
+2025-08-16,13:13:09:942507,DEBUG,Plan: 
+2025-08-16,13:13:10:016151,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:13:10:053590,DEBUG,Backups: 0 MB
+2025-08-16,13:13:10:088636,DEBUG,Versions: 0 MB
+2025-08-16,13:13:10:119446,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:13:10:140174,DEBUG,Available: 0 MB
+2025-08-16,13:13:10:140423,INFO,Tasks complete. Closing browser.
+2025-08-16,13:13:16:615424,INFO,Launching browser
+2025-08-16,13:13:18:367486,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:13:26:371224,INFO,Login button clicked
+2025-08-16,13:13:26:371444,INFO,Waiting for homepage to load...
+2025-08-16,13:13:31:488312,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:13:39:421492,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:13:39:421714,DEBUG,Profile name: qing chy
+2025-08-16,13:13:39:421836,DEBUG,Email: 
+2025-08-16,13:13:39:421926,DEBUG,Plan: 
+2025-08-16,13:13:39:460957,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:13:39:482318,DEBUG,Backups: 0 MB
+2025-08-16,13:13:39:503710,DEBUG,Versions: 0 MB
+2025-08-16,13:13:39:527778,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:13:39:547793,DEBUG,Available: 0 MB
+2025-08-16,13:13:39:548073,INFO,Tasks complete. Closing browser.
+2025-08-16,13:13:46:238352,INFO,Launching browser
+2025-08-16,13:13:47:846981,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:13:56:735193,INFO,Login button clicked
+2025-08-16,13:13:56:735524,INFO,Waiting for homepage to load...
+2025-08-16,13:14:02:737513,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:14:12:034387,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:14:12:034751,DEBUG,Profile name: Kayla Sanders
+2025-08-16,13:14:12:035144,DEBUG,Email: 
+2025-08-16,13:14:12:035585,DEBUG,Plan: 
+2025-08-16,13:14:12:108269,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:14:12:140727,DEBUG,Backups: 0 MB
+2025-08-16,13:14:12:167539,DEBUG,Versions: 0 MB
+2025-08-16,13:14:12:267128,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:14:12:295382,DEBUG,Available: (19.67 GB)
+2025-08-16,13:14:12:295611,INFO,Tasks complete. Closing browser.
+2025-08-16,13:14:18:889216,INFO,Launching browser
+2025-08-16,13:14:20:909084,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:14:29:271065,INFO,Login button clicked
+2025-08-16,13:14:29:271273,INFO,Waiting for homepage to load...
+2025-08-16,13:14:37:139001,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:14:46:436709,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:14:46:436943,DEBUG,Profile name: qing chy
+2025-08-16,13:14:46:437218,DEBUG,Email: 
+2025-08-16,13:14:46:437711,DEBUG,Plan: 
+2025-08-16,13:14:46:527724,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:14:46:568623,DEBUG,Backups: 0 MB
+2025-08-16,13:14:46:611240,DEBUG,Versions: 0 MB
+2025-08-16,13:14:46:664240,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:14:46:705085,DEBUG,Available: 0 MB
+2025-08-16,13:14:46:705700,INFO,Tasks complete. Closing browser.
+2025-08-16,13:14:53:211685,INFO,Launching browser
+2025-08-16,13:14:55:006249,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:15:03:349712,INFO,Login button clicked
+2025-08-16,13:15:03:349908,INFO,Waiting for homepage to load...
+2025-08-16,13:15:09:406534,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:15:17:458577,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:15:17:458818,DEBUG,Profile name: qing chy
+2025-08-16,13:15:17:459093,DEBUG,Email: 
+2025-08-16,13:15:17:459249,DEBUG,Plan: 
+2025-08-16,13:15:17:501080,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:15:17:526752,DEBUG,Backups: 0 MB
+2025-08-16,13:15:17:553078,DEBUG,Versions: 0 MB
+2025-08-16,13:15:17:580586,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:15:17:607159,DEBUG,Available: 0 MB
+2025-08-16,13:15:17:607448,INFO,Tasks complete. Closing browser.
+2025-08-16,13:15:24:026536,INFO,Launching browser
+2025-08-16,13:15:25:931997,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:15:34:150095,INFO,Login button clicked
+2025-08-16,13:15:34:150265,INFO,Waiting for homepage to load...
+2025-08-16,13:15:41:864497,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:15:49:559540,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:15:49:559805,DEBUG,Profile name: qing chy
+2025-08-16,13:15:49:559956,DEBUG,Email: jealouschough1@mechanicspedia.com
+2025-08-16,13:15:49:560192,DEBUG,Plan: Free
+2025-08-16,13:15:49:605535,DEBUG,Cloud drive: (23.95 GB)
+2025-08-16,13:15:49:627065,DEBUG,Backups:  0 MB 
+2025-08-16,13:15:49:649739,DEBUG,Versions: (0 B)
+2025-08-16,13:15:49:673011,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:15:49:702014,DEBUG,Available: (0 B)
+2025-08-16,13:15:49:702225,INFO,Tasks complete. Closing browser.
+2025-08-16,13:15:56:200796,INFO,Launching browser
+2025-08-16,13:15:57:957371,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:16:06:259349,INFO,Login button clicked
+2025-08-16,13:16:06:259616,INFO,Waiting for homepage to load...
+2025-08-16,13:16:11:500623,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:16:18:534347,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:16:18:534647,DEBUG,Profile name: qing chy
+2025-08-16,13:16:18:535156,DEBUG,Email: 
+2025-08-16,13:16:18:535580,DEBUG,Plan: 
+2025-08-16,13:16:18:597362,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:16:18:629481,DEBUG,Backups: 0 MB
+2025-08-16,13:16:18:657006,DEBUG,Versions: 0 MB
+2025-08-16,13:16:18:730305,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:16:18:755889,DEBUG,Available: (19.64 GB)
+2025-08-16,13:16:18:756274,INFO,Tasks complete. Closing browser.
+2025-08-16,13:16:25:089264,INFO,Launching browser
+2025-08-16,13:16:26:708582,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:16:34:176609,INFO,Login button clicked
+2025-08-16,13:16:34:176920,INFO,Waiting for homepage to load...
+2025-08-16,13:16:40:059066,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:16:48:342438,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:16:48:343843,DEBUG,Profile name: Donna Johnson
+2025-08-16,13:16:48:344049,DEBUG,Email: 
+2025-08-16,13:16:48:344358,DEBUG,Plan: 
+2025-08-16,13:16:48:386051,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:16:48:415184,DEBUG,Backups: 0 MB
+2025-08-16,13:16:48:452725,DEBUG,Versions: 0 MB
+2025-08-16,13:16:48:480624,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:16:48:504915,DEBUG,Available: 0 MB
+2025-08-16,13:16:48:505296,INFO,Tasks complete. Closing browser.
+2025-08-16,13:16:55:012348,INFO,Launching browser
+2025-08-16,13:16:56:685750,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:17:04:844611,INFO,Login button clicked
+2025-08-16,13:17:04:844814,INFO,Waiting for homepage to load...
+2025-08-16,13:17:10:951972,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:17:18:946137,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:17:18:946468,DEBUG,Profile name: qing chy
+2025-08-16,13:17:18:946708,DEBUG,Email: 
+2025-08-16,13:17:18:946954,DEBUG,Plan: 
+2025-08-16,13:17:18:999472,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:17:19:022296,DEBUG,Backups: 0 MB
+2025-08-16,13:17:19:050976,DEBUG,Versions: 0 MB
+2025-08-16,13:17:19:076597,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:17:19:099357,DEBUG,Available: 0 MB
+2025-08-16,13:17:19:099678,INFO,Tasks complete. Closing browser.
+2025-08-16,13:17:25:554488,INFO,Launching browser
+2025-08-16,13:17:27:117401,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:17:36:301725,INFO,Login button clicked
+2025-08-16,13:17:36:301921,INFO,Waiting for homepage to load...
+2025-08-16,13:17:41:226920,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:17:49:795366,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:17:49:797293,DEBUG,Profile name: qing chy
+2025-08-16,13:17:49:797546,DEBUG,Email: 
+2025-08-16,13:17:49:797740,DEBUG,Plan: 
+2025-08-16,13:17:49:852569,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:17:49:880497,DEBUG,Backups: 0 MB
+2025-08-16,13:17:49:927038,DEBUG,Versions: 0 MB
+2025-08-16,13:17:49:949411,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:17:49:971975,DEBUG,Available: 0 MB
+2025-08-16,13:17:49:972173,INFO,Tasks complete. Closing browser.
+2025-08-16,13:17:56:751316,INFO,Launching browser
+2025-08-16,13:17:58:487462,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:18:05:784306,INFO,Login button clicked
+2025-08-16,13:18:05:784607,INFO,Waiting for homepage to load...
+2025-08-16,13:18:17:758841,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:18:25:415389,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:18:25:415790,DEBUG,Profile name: qing chy
+2025-08-16,13:18:25:416069,DEBUG,Email: 
+2025-08-16,13:18:25:416327,DEBUG,Plan: 
+2025-08-16,13:18:25:506617,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:18:25:532707,DEBUG,Backups: 0 MB
+2025-08-16,13:18:25:563443,DEBUG,Versions: 0 MB
+2025-08-16,13:18:25:589978,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:18:25:619660,DEBUG,Available: 0 MB
+2025-08-16,13:18:25:620284,INFO,Tasks complete. Closing browser.
+2025-08-16,13:18:32:066054,INFO,Launching browser
+2025-08-16,13:18:33:905086,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:18:41:515630,INFO,Login button clicked
+2025-08-16,13:18:41:515857,INFO,Waiting for homepage to load...
+2025-08-16,13:18:48:350144,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:18:56:557618,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:18:56:557890,DEBUG,Profile name: Billy Robinson MD
+2025-08-16,13:18:56:558044,DEBUG,Email: 
+2025-08-16,13:18:56:558151,DEBUG,Plan: 
+2025-08-16,13:18:56:614752,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:18:56:641364,DEBUG,Backups: 0 MB
+2025-08-16,13:18:56:665719,DEBUG,Versions: 0 MB
+2025-08-16,13:18:56:689554,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:18:56:772162,DEBUG,Available: (13.12 GB)
+2025-08-16,13:18:56:772423,INFO,Tasks complete. Closing browser.
+2025-08-16,13:19:03:381306,INFO,Launching browser
+2025-08-16,13:19:05:133165,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:19:12:484864,INFO,Login button clicked
+2025-08-16,13:19:12:485120,INFO,Waiting for homepage to load...
+2025-08-16,13:19:16:763526,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:19:25:276868,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:19:25:277189,DEBUG,Profile name: qing chy
+2025-08-16,13:19:25:277545,DEBUG,Email: 
+2025-08-16,13:19:25:277840,DEBUG,Plan: 
+2025-08-16,13:19:25:356357,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:19:25:390216,DEBUG,Backups: 0 MB
+2025-08-16,13:19:25:427981,DEBUG,Versions: 0 MB
+2025-08-16,13:19:25:454629,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:19:25:480032,DEBUG,Available: 0 MB
+2025-08-16,13:19:25:480253,INFO,Tasks complete. Closing browser.
+2025-08-16,13:19:31:914152,INFO,Launching browser
+2025-08-16,13:19:33:753332,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:19:42:118631,INFO,Login button clicked
+2025-08-16,13:19:42:118872,INFO,Waiting for homepage to load...
+2025-08-16,13:19:46:583060,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:19:54:576218,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:19:54:576526,DEBUG,Profile name: qing chy
+2025-08-16,13:19:54:576761,DEBUG,Email: 
+2025-08-16,13:19:54:576920,DEBUG,Plan: 
+2025-08-16,13:19:54:621102,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:19:54:657865,DEBUG,Backups: 0 MB
+2025-08-16,13:19:54:687668,DEBUG,Versions: 0 MB
+2025-08-16,13:19:54:726226,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:19:54:836087,DEBUG,Available: (4.69 GB)
+2025-08-16,13:19:54:836493,INFO,Tasks complete. Closing browser.
+2025-08-16,13:20:01:308170,INFO,Launching browser
+2025-08-16,13:20:02:870150,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:20:10:390017,INFO,Login button clicked
+2025-08-16,13:20:10:390232,INFO,Waiting for homepage to load...
+2025-08-16,13:20:17:441952,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:20:25:390267,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:20:25:390632,DEBUG,Profile name: Haley Vaughn
+2025-08-16,13:20:25:390890,DEBUG,Email: 
+2025-08-16,13:20:25:391105,DEBUG,Plan: 
+2025-08-16,13:20:25:487186,DEBUG,Cloud drive: (13.33 GB)
+2025-08-16,13:20:25:513412,DEBUG,Backups:  0 MB 
+2025-08-16,13:20:25:533049,DEBUG,Versions: (0 B)
+2025-08-16,13:20:25:552677,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:20:25:571942,DEBUG,Available: (6.67 GB)
+2025-08-16,13:20:25:572248,INFO,Tasks complete. Closing browser.
+2025-08-16,13:20:31:875425,INFO,Launching browser
+2025-08-16,13:20:33:391993,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:20:41:095525,INFO,Login button clicked
+2025-08-16,13:20:41:095751,INFO,Waiting for homepage to load...
+2025-08-16,13:20:50:508400,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:20:57:849088,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:20:57:849485,DEBUG,Profile name: qing chy
+2025-08-16,13:20:57:849948,DEBUG,Email: 
+2025-08-16,13:20:57:850292,DEBUG,Plan: 
+2025-08-16,13:20:57:910335,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:20:57:933527,DEBUG,Backups: 0 MB
+2025-08-16,13:20:57:959920,DEBUG,Versions: 0 MB
+2025-08-16,13:20:57:983457,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:20:58:010176,DEBUG,Available: 0 MB
+2025-08-16,13:20:58:010545,INFO,Tasks complete. Closing browser.
+2025-08-16,13:21:04:624144,INFO,Launching browser
+2025-08-16,13:21:06:524905,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:21:14:244812,INFO,Login button clicked
+2025-08-16,13:21:14:245282,INFO,Waiting for homepage to load...
+2025-08-16,13:21:20:583320,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:21:28:628908,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:21:28:629267,DEBUG,Profile name: Craig Camacho
+2025-08-16,13:21:28:629511,DEBUG,Email: 
+2025-08-16,13:21:28:629705,DEBUG,Plan: 
+2025-08-16,13:21:28:682723,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:21:28:705406,DEBUG,Backups: 0 MB
+2025-08-16,13:21:28:727343,DEBUG,Versions: 0 MB
+2025-08-16,13:21:28:756103,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:21:28:782415,DEBUG,Available: 0 MB
+2025-08-16,13:21:28:782780,INFO,Tasks complete. Closing browser.
+2025-08-16,13:21:35:484656,INFO,Launching browser
+2025-08-16,13:21:37:144328,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:21:44:364688,INFO,Login button clicked
+2025-08-16,13:21:44:364934,INFO,Waiting for homepage to load...
+2025-08-16,13:21:51:813590,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:21:59:946550,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:21:59:946705,DEBUG,Profile name: qing chy
+2025-08-16,13:21:59:946906,DEBUG,Email: 
+2025-08-16,13:21:59:947089,DEBUG,Plan: 
+2025-08-16,13:21:59:985176,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:22:00:004148,DEBUG,Backups: 0 MB
+2025-08-16,13:22:00:025249,DEBUG,Versions: 0 MB
+2025-08-16,13:22:00:045019,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:22:00:068278,DEBUG,Available: 0 MB
+2025-08-16,13:22:00:069022,INFO,Tasks complete. Closing browser.
+2025-08-16,13:22:06:914365,INFO,Launching browser
+2025-08-16,13:22:08:637897,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:22:16:592330,INFO,Login button clicked
+2025-08-16,13:22:16:592539,INFO,Waiting for homepage to load...
+2025-08-16,13:22:22:528582,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:22:30:163208,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:22:30:163492,DEBUG,Profile name: Bob Garcia
+2025-08-16,13:22:30:163687,DEBUG,Email: 
+2025-08-16,13:22:30:163968,DEBUG,Plan: 
+2025-08-16,13:22:30:224162,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:22:30:251921,DEBUG,Backups: 0 MB
+2025-08-16,13:22:30:279573,DEBUG,Versions: 0 MB
+2025-08-16,13:22:30:308838,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:22:30:348387,DEBUG,Available: 0 MB
+2025-08-16,13:22:30:348620,INFO,Tasks complete. Closing browser.
+2025-08-16,13:22:37:270361,INFO,Launching browser
+2025-08-16,13:22:38:849628,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:22:46:685399,INFO,Login button clicked
+2025-08-16,13:22:46:685649,INFO,Waiting for homepage to load...
+2025-08-16,13:22:54:996877,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:23:02:535710,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:23:02:536028,DEBUG,Profile name: David Foster
+2025-08-16,13:23:02:536214,DEBUG,Email: 
+2025-08-16,13:23:02:536366,DEBUG,Plan: 
+2025-08-16,13:23:02:606029,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:23:02:635024,DEBUG,Backups: 0 MB
+2025-08-16,13:23:02:661508,DEBUG,Versions: 0 MB
+2025-08-16,13:23:02:688482,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:23:02:719435,DEBUG,Available: 0 MB
+2025-08-16,13:23:02:719744,INFO,Tasks complete. Closing browser.
+2025-08-16,13:23:09:602375,INFO,Launching browser
+2025-08-16,13:23:11:582944,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:23:18:896019,INFO,Login button clicked
+2025-08-16,13:23:18:896257,INFO,Waiting for homepage to load...
+2025-08-16,13:23:23:766903,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:23:31:292024,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:23:31:292407,DEBUG,Profile name: John Mcdonald
+2025-08-16,13:23:31:294294,DEBUG,Email: 
+2025-08-16,13:23:31:294567,DEBUG,Plan: 
+2025-08-16,13:23:31:376412,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:23:31:401150,DEBUG,Backups: 0 MB
+2025-08-16,13:23:31:433835,DEBUG,Versions: 0 MB
+2025-08-16,13:23:31:458501,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:23:31:502953,DEBUG,Available: 0 MB
+2025-08-16,13:23:31:503467,INFO,Tasks complete. Closing browser.
+2025-08-16,13:23:37:943115,INFO,Launching browser
+2025-08-16,13:23:39:496322,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:23:46:647829,INFO,Login button clicked
+2025-08-16,13:23:46:648197,INFO,Waiting for homepage to load...
+2025-08-16,13:23:52:434140,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:24:00:552549,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:24:00:552793,DEBUG,Profile name: Toni Wilcox
+2025-08-16,13:24:00:552968,DEBUG,Email: soretoucan1@punkproof.com
+2025-08-16,13:24:00:553387,DEBUG,Plan: Free
+2025-08-16,13:24:00:607431,DEBUG,Cloud drive: (428.6 MB)
+2025-08-16,13:24:00:650633,DEBUG,Backups:  0 MB 
+2025-08-16,13:24:00:679836,DEBUG,Versions: (0 B)
+2025-08-16,13:24:00:706220,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:24:00:726414,DEBUG,Available: (19.58 GB)
+2025-08-16,13:24:00:726684,INFO,Tasks complete. Closing browser.
+2025-08-16,13:24:07:479229,INFO,Launching browser
+2025-08-16,13:24:09:350786,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:24:16:863817,INFO,Login button clicked
+2025-08-16,13:24:16:864036,INFO,Waiting for homepage to load...
+2025-08-16,13:24:22:344105,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:24:30:908341,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:24:30:908622,DEBUG,Profile name: Dorothy Williams
+2025-08-16,13:24:30:908908,DEBUG,Email: 
+2025-08-16,13:24:30:909135,DEBUG,Plan: 
+2025-08-16,13:24:30:958887,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:24:30:983972,DEBUG,Backups: 0 MB
+2025-08-16,13:24:31:006591,DEBUG,Versions: 0 MB
+2025-08-16,13:24:31:033184,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:24:31:073864,DEBUG,Available: 0 MB
+2025-08-16,13:24:31:074225,INFO,Tasks complete. Closing browser.
+2025-08-16,13:24:37:628113,INFO,Launching browser
+2025-08-16,13:24:39:193603,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:24:46:679342,INFO,Login button clicked
+2025-08-16,13:24:46:679555,INFO,Waiting for homepage to load...
+2025-08-16,13:24:52:144741,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:25:00:806347,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:25:00:806589,DEBUG,Profile name: Michael Phillips
+2025-08-16,13:25:00:806806,DEBUG,Email: grudgingsausage8@punkproof.com
+2025-08-16,13:25:00:806997,DEBUG,Plan: Free
+2025-08-16,13:25:00:849800,DEBUG,Cloud drive: (3.45 GB)
+2025-08-16,13:25:00:873265,DEBUG,Backups:  0 MB 
+2025-08-16,13:25:00:897464,DEBUG,Versions: (0 B)
+2025-08-16,13:25:00:920454,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:25:00:941056,DEBUG,Available: (16.55 GB)
+2025-08-16,13:25:00:941294,INFO,Tasks complete. Closing browser.
+2025-08-16,13:25:07:462220,INFO,Launching browser
+2025-08-16,13:25:09:355907,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:25:17:007997,INFO,Login button clicked
+2025-08-16,13:25:17:008237,INFO,Waiting for homepage to load...
+2025-08-16,13:25:22:504230,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:25:29:878993,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:25:29:880865,DEBUG,Profile name: qing chy
+2025-08-16,13:25:29:881046,DEBUG,Email: 
+2025-08-16,13:25:29:881185,DEBUG,Plan: 
+2025-08-16,13:25:29:977922,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:25:30:004020,DEBUG,Backups: 0 MB
+2025-08-16,13:25:30:027439,DEBUG,Versions: 0 MB
+2025-08-16,13:25:30:049889,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:25:30:074734,DEBUG,Available: 0 MB
+2025-08-16,13:25:30:074991,INFO,Tasks complete. Closing browser.
+2025-08-16,13:25:36:648038,INFO,Launching browser
+2025-08-16,13:25:38:502418,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:25:46:135045,INFO,Login button clicked
+2025-08-16,13:25:46:135273,INFO,Waiting for homepage to load...
+2025-08-16,13:25:53:518206,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:26:01:545429,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:26:01:545703,DEBUG,Profile name: Patricia Hart
+2025-08-16,13:26:01:545920,DEBUG,Email: fondviper7@punkproof.com
+2025-08-16,13:26:01:546154,DEBUG,Plan: Free
+2025-08-16,13:26:01:587345,DEBUG,Cloud drive: (13.69 GB)
+2025-08-16,13:26:01:612904,DEBUG,Backups:  0 MB 
+2025-08-16,13:26:01:639342,DEBUG,Versions: (0 B)
+2025-08-16,13:26:01:660887,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:26:01:682092,DEBUG,Available: (6.31 GB)
+2025-08-16,13:26:01:682387,INFO,Tasks complete. Closing browser.
+2025-08-16,13:26:08:197592,INFO,Launching browser
+2025-08-16,13:26:09:923267,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:26:17:392315,INFO,Login button clicked
+2025-08-16,13:26:17:392535,INFO,Waiting for homepage to load...
+2025-08-16,13:26:22:369177,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:26:28:796773,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:26:28:797781,DEBUG,Profile name: qing chy
+2025-08-16,13:26:28:798016,DEBUG,Email: 
+2025-08-16,13:26:28:798283,DEBUG,Plan: 
+2025-08-16,13:26:28:836478,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:26:28:871945,DEBUG,Backups: 0 MB
+2025-08-16,13:26:28:897191,DEBUG,Versions: 0 MB
+2025-08-16,13:26:28:916868,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:26:28:940559,DEBUG,Available: 0 MB
+2025-08-16,13:26:28:941679,INFO,Tasks complete. Closing browser.
+2025-08-16,13:26:35:279610,INFO,Launching browser
+2025-08-16,13:26:36:908577,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:26:44:354194,INFO,Login button clicked
+2025-08-16,13:26:44:354564,INFO,Waiting for homepage to load...
+2025-08-16,13:26:49:463656,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:26:56:940908,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:26:56:941183,DEBUG,Profile name: David Tran
+2025-08-16,13:26:56:941450,DEBUG,Email: 
+2025-08-16,13:26:56:941598,DEBUG,Plan: 
+2025-08-16,13:26:56:977612,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:26:56:997618,DEBUG,Backups: 0 MB
+2025-08-16,13:26:57:016779,DEBUG,Versions: 0 MB
+2025-08-16,13:26:57:079423,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:26:57:096183,DEBUG,Available: (19.26 GB)
+2025-08-16,13:26:57:096477,INFO,Tasks complete. Closing browser.
+2025-08-16,13:27:03:757771,INFO,Launching browser
+2025-08-16,13:27:05:749441,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:27:13:089685,INFO,Login button clicked
+2025-08-16,13:27:13:089928,INFO,Waiting for homepage to load...
+2025-08-16,13:27:17:323774,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:27:25:353923,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:27:25:354132,DEBUG,Profile name: qing chy
+2025-08-16,13:27:25:354635,DEBUG,Email: 
+2025-08-16,13:27:25:354847,DEBUG,Plan: 
+2025-08-16,13:27:25:396615,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:27:25:428430,DEBUG,Backups: 0 MB
+2025-08-16,13:27:25:455582,DEBUG,Versions: 0 MB
+2025-08-16,13:27:25:493558,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:27:25:582139,DEBUG,Available: (18.62 GB)
+2025-08-16,13:27:25:582798,INFO,Tasks complete. Closing browser.
+2025-08-16,13:27:32:114530,INFO,Launching browser
+2025-08-16,13:27:33:879186,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:27:41:655401,INFO,Login button clicked
+2025-08-16,13:27:41:655754,INFO,Waiting for homepage to load...
+2025-08-16,13:27:47:813107,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:27:55:251404,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:27:55:251671,DEBUG,Profile name: qing chy
+2025-08-16,13:27:55:251919,DEBUG,Email: 
+2025-08-16,13:27:55:252109,DEBUG,Plan: 
+2025-08-16,13:27:55:290776,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:27:55:312093,DEBUG,Backups: 0 MB
+2025-08-16,13:27:55:355263,DEBUG,Versions: 0 MB
+2025-08-16,13:27:55:383860,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:27:55:450465,DEBUG,Available: (197.9 MB)
+2025-08-16,13:27:55:450785,INFO,Tasks complete. Closing browser.
+2025-08-16,13:28:01:820618,INFO,Launching browser
+2025-08-16,13:28:03:245740,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:28:10:313465,INFO,Login button clicked
+2025-08-16,13:28:10:313706,INFO,Waiting for homepage to load...
+2025-08-16,13:28:19:878224,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:28:27:215103,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:28:27:215354,DEBUG,Profile name: qing chy
+2025-08-16,13:28:27:215525,DEBUG,Email: empathicchile8@mechanicspedia.com
+2025-08-16,13:28:27:215683,DEBUG,Plan: Free
+2025-08-16,13:28:27:264822,DEBUG,Cloud drive: (2.97 GB)
+2025-08-16,13:28:27:298459,DEBUG,Backups:  0 MB 
+2025-08-16,13:28:27:321540,DEBUG,Versions: (0 B)
+2025-08-16,13:28:27:343988,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:28:27:368176,DEBUG,Available: (17.03 GB)
+2025-08-16,13:28:27:368464,INFO,Tasks complete. Closing browser.
+2025-08-16,13:28:33:616414,INFO,Launching browser
+2025-08-16,13:28:35:318016,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:28:42:912224,INFO,Login button clicked
+2025-08-16,13:28:42:912404,INFO,Waiting for homepage to load...
+2025-08-16,13:28:47:909382,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:28:55:862348,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:28:55:862659,DEBUG,Profile name: qing chy
+2025-08-16,13:28:55:863806,DEBUG,Email: 
+2025-08-16,13:28:55:865158,DEBUG,Plan: 
+2025-08-16,13:28:55:922768,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:28:55:950512,DEBUG,Backups: 0 MB
+2025-08-16,13:28:55:979740,DEBUG,Versions: 0 MB
+2025-08-16,13:28:56:007727,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:28:56:034195,DEBUG,Available: 0 MB
+2025-08-16,13:28:56:034489,INFO,Tasks complete. Closing browser.
+2025-08-16,13:29:02:340344,INFO,Launching browser
+2025-08-16,13:29:03:890832,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:29:11:011114,INFO,Login button clicked
+2025-08-16,13:29:11:011460,INFO,Waiting for homepage to load...
+2025-08-16,13:29:16:320956,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:29:23:637551,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:29:23:637866,DEBUG,Profile name: qing chy
+2025-08-16,13:29:23:638164,DEBUG,Email: 
+2025-08-16,13:29:23:638446,DEBUG,Plan: 
+2025-08-16,13:29:23:685352,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:29:23:711123,DEBUG,Backups: 0 MB
+2025-08-16,13:29:23:735055,DEBUG,Versions: 0 MB
+2025-08-16,13:29:23:760417,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:29:23:784535,DEBUG,Available: 0 MB
+2025-08-16,13:29:23:784855,INFO,Tasks complete. Closing browser.
+2025-08-16,13:29:29:990913,INFO,Launching browser
+2025-08-16,13:29:31:443803,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:29:38:469052,INFO,Login button clicked
+2025-08-16,13:29:38:469295,INFO,Waiting for homepage to load...
+2025-08-16,13:29:45:295210,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:29:52:712995,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:29:52:713173,DEBUG,Profile name: Meredith Weeks
+2025-08-16,13:29:52:713287,DEBUG,Email: grizzledunicorn3@punkproof.com
+2025-08-16,13:29:52:713396,DEBUG,Plan: Free
+2025-08-16,13:29:52:753299,DEBUG,Cloud drive: (9.23 GB)
+2025-08-16,13:29:52:775696,DEBUG,Backups:  0 MB 
+2025-08-16,13:29:52:797990,DEBUG,Versions: (0 B)
+2025-08-16,13:29:52:822255,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:29:52:845219,DEBUG,Available: (10.77 GB)
+2025-08-16,13:29:52:845491,INFO,Tasks complete. Closing browser.
+2025-08-16,13:29:59:234014,INFO,Launching browser
+2025-08-16,13:30:00:891093,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:30:07:995260,INFO,Login button clicked
+2025-08-16,13:30:07:995472,INFO,Waiting for homepage to load...
+2025-08-16,13:30:13:254385,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:30:21:239154,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:30:21:239349,DEBUG,Profile name: qing chy
+2025-08-16,13:30:21:239574,DEBUG,Email: 
+2025-08-16,13:30:21:239800,DEBUG,Plan: 
+2025-08-16,13:30:21:339687,DEBUG,Cloud drive: (550.7 MB)
+2025-08-16,13:30:21:364874,DEBUG,Backups:  0 MB 
+2025-08-16,13:30:21:386567,DEBUG,Versions: (0 B)
+2025-08-16,13:30:21:407795,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:30:21:430884,DEBUG,Available: (19.46 GB)
+2025-08-16,13:30:21:431241,INFO,Tasks complete. Closing browser.
+2025-08-16,13:30:28:044721,INFO,Launching browser
+2025-08-16,13:30:29:886522,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:30:37:170483,INFO,Login button clicked
+2025-08-16,13:30:37:170740,INFO,Waiting for homepage to load...
+2025-08-16,13:30:42:630012,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:30:50:580393,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:30:50:580623,DEBUG,Profile name: qing chy
+2025-08-16,13:30:50:581847,DEBUG,Email: 
+2025-08-16,13:30:50:582196,DEBUG,Plan: 
+2025-08-16,13:30:50:682313,DEBUG,Cloud drive: (3.44 GB)
+2025-08-16,13:30:50:707818,DEBUG,Backups:  0 MB 
+2025-08-16,13:30:50:732608,DEBUG,Versions: (0 B)
+2025-08-16,13:30:50:756424,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:30:50:781370,DEBUG,Available: (16.56 GB)
+2025-08-16,13:30:50:781555,INFO,Tasks complete. Closing browser.
+2025-08-16,13:30:57:091820,INFO,Launching browser
+2025-08-16,13:30:58:794345,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:31:06:095514,INFO,Login button clicked
+2025-08-16,13:31:06:095915,INFO,Waiting for homepage to load...
+2025-08-16,13:31:10:842935,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:31:17:786851,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:31:17:787466,DEBUG,Profile name: qing chy
+2025-08-16,13:31:17:787664,DEBUG,Email: 
+2025-08-16,13:31:17:787776,DEBUG,Plan: 
+2025-08-16,13:31:17:827681,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:31:17:864118,DEBUG,Backups: 0 MB
+2025-08-16,13:31:17:893919,DEBUG,Versions: 0 MB
+2025-08-16,13:31:17:920337,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:31:17:945061,DEBUG,Available: 0 MB
+2025-08-16,13:31:17:945324,INFO,Tasks complete. Closing browser.
+2025-08-16,13:31:24:193578,INFO,Launching browser
+2025-08-16,13:31:25:930101,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:31:34:534596,INFO,Login button clicked
+2025-08-16,13:31:34:534806,INFO,Waiting for homepage to load...
+2025-08-16,13:31:41:075001,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:31:50:079056,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:31:50:079830,DEBUG,Profile name: qing chy
+2025-08-16,13:31:50:080417,DEBUG,Email: worldlybustard3@mechanicspedia.com
+2025-08-16,13:31:50:080951,DEBUG,Plan: Free
+2025-08-16,13:31:50:166513,DEBUG,Cloud drive: (24.77 GB)
+2025-08-16,13:31:50:194528,DEBUG,Backups:  0 MB 
+2025-08-16,13:31:50:218315,DEBUG,Versions: (0 B)
+2025-08-16,13:31:50:243543,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:31:50:269163,DEBUG,Available: (0 B)
+2025-08-16,13:31:50:269497,INFO,Tasks complete. Closing browser.
+2025-08-16,13:31:56:896824,INFO,Launching browser
+2025-08-16,13:31:58:550623,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:32:01:880115,INFO,Login button clicked
+2025-08-16,13:32:01:880336,INFO,Waiting for homepage to load...
+2025-08-16,13:32:05:082464,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:32:10:514994,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:32:10:518801,DEBUG,Profile name: qing chy
+2025-08-16,13:32:10:519141,DEBUG,Email: zestypepper4@mechanicspedia.com
+2025-08-16,13:32:10:519347,DEBUG,Plan: Free
+2025-08-16,13:32:10:589538,DEBUG,Cloud drive: (1.56 GB)
+2025-08-16,13:32:10:615123,DEBUG,Backups:  0 MB 
+2025-08-16,13:32:10:659915,DEBUG,Versions: (0 B)
+2025-08-16,13:32:10:700911,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:32:10:755956,DEBUG,Available: (18.44 GB)
+2025-08-16,13:32:10:756256,INFO,Tasks complete. Closing browser.
+2025-08-16,13:32:17:477210,INFO,Launching browser
+2025-08-16,13:32:19:309079,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:32:22:950645,INFO,Login button clicked
+2025-08-16,13:32:22:952587,INFO,Waiting for homepage to load...
+2025-08-16,13:32:29:836803,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:32:34:595025,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:32:34:595295,DEBUG,Profile name: Mr. Justin Gomez
+2025-08-16,13:32:34:595470,DEBUG,Email: 
+2025-08-16,13:32:34:595737,DEBUG,Plan: 
+2025-08-16,13:32:34:645671,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:32:34:677791,DEBUG,Backups: 0 MB
+2025-08-16,13:32:34:732453,DEBUG,Versions: 0 MB
+2025-08-16,13:32:34:803981,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:32:34:835774,DEBUG,Available: (13.50 GB)
+2025-08-16,13:32:34:836121,INFO,Tasks complete. Closing browser.
+2025-08-16,13:32:41:411720,INFO,Launching browser
+2025-08-16,13:32:43:122382,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:32:46:742314,INFO,Login button clicked
+2025-08-16,13:32:46:742587,INFO,Waiting for homepage to load...
+2025-08-16,13:32:49:769387,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:32:54:917808,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:32:54:918104,DEBUG,Profile name: qing chy
+2025-08-16,13:32:54:918319,DEBUG,Email: truthfullion0@mechanicspedia.com
+2025-08-16,13:32:54:918541,DEBUG,Plan: Free
+2025-08-16,13:32:54:966440,DEBUG,Cloud drive: (3.59 GB)
+2025-08-16,13:32:54:997123,DEBUG,Backups:  0 MB 
+2025-08-16,13:32:55:031056,DEBUG,Versions: (0 B)
+2025-08-16,13:32:55:063492,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:32:55:100853,DEBUG,Available: (16.41 GB)
+2025-08-16,13:32:55:101236,INFO,Tasks complete. Closing browser.
+2025-08-16,13:33:01:596956,INFO,Launching browser
+2025-08-16,13:33:03:389372,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:33:06:987660,INFO,Login button clicked
+2025-08-16,13:33:06:988037,INFO,Waiting for homepage to load...
+2025-08-16,13:33:11:536826,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:33:16:809204,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:33:16:809707,DEBUG,Profile name: Melissa Adams
+2025-08-16,13:33:16:810589,DEBUG,Email: 
+2025-08-16,13:33:16:810778,DEBUG,Plan: 
+2025-08-16,13:33:16:912460,DEBUG,Cloud drive: (10.03 GB)
+2025-08-16,13:33:16:939243,DEBUG,Backups:  0 MB 
+2025-08-16,13:33:16:982810,DEBUG,Versions: (0 B)
+2025-08-16,13:33:17:014644,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:33:17:079594,DEBUG,Available: (9.97 GB)
+2025-08-16,13:33:17:079994,INFO,Tasks complete. Closing browser.
+2025-08-16,13:33:23:672649,INFO,Launching browser
+2025-08-16,13:33:25:698838,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:33:29:298268,INFO,Login button clicked
+2025-08-16,13:33:29:298683,INFO,Waiting for homepage to load...
+2025-08-16,13:33:34:504541,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:33:39:139503,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:33:39:140077,DEBUG,Profile name: Bianca Jackson
+2025-08-16,13:33:39:140398,DEBUG,Email: 
+2025-08-16,13:33:39:140534,DEBUG,Plan: 
+2025-08-16,13:33:39:248592,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:33:39:277295,DEBUG,Backups: 0 MB
+2025-08-16,13:33:39:307359,DEBUG,Versions: 0 MB
+2025-08-16,13:33:39:382594,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:33:39:414396,DEBUG,Available: (18.78 GB)
+2025-08-16,13:33:39:414661,INFO,Tasks complete. Closing browser.
+2025-08-16,13:33:46:024847,INFO,Launching browser
+2025-08-16,13:33:47:767993,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:33:51:376157,INFO,Login button clicked
+2025-08-16,13:33:51:376479,INFO,Waiting for homepage to load...
+2025-08-16,13:33:56:689860,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:34:01:829102,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:34:01:829327,DEBUG,Profile name: Rhonda Potter
+2025-08-16,13:34:01:829635,DEBUG,Email: importediguana8@punkproof.com
+2025-08-16,13:34:01:829853,DEBUG,Plan: Free
+2025-08-16,13:34:01:914911,DEBUG,Cloud drive: (504.1 MB)
+2025-08-16,13:34:01:943753,DEBUG,Backups:  0 MB 
+2025-08-16,13:34:01:975056,DEBUG,Versions: (0 B)
+2025-08-16,13:34:02:044357,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:34:02:074839,DEBUG,Available: (19.51 GB)
+2025-08-16,13:34:02:075151,INFO,Tasks complete. Closing browser.
+2025-08-16,13:34:08:618510,INFO,Launching browser
+2025-08-16,13:34:10:369464,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:34:13:915915,INFO,Login button clicked
+2025-08-16,13:34:13:916215,INFO,Waiting for homepage to load...
+2025-08-16,13:34:18:427218,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:34:23:728576,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:34:23:729260,DEBUG,Profile name: Mrs. Annette Gibbs
+2025-08-16,13:34:23:729412,DEBUG,Email: guiltymallard8@punkproof.com
+2025-08-16,13:34:23:729504,DEBUG,Plan: Free
+2025-08-16,13:34:23:780220,DEBUG,Cloud drive: (1.63 GB)
+2025-08-16,13:34:23:813329,DEBUG,Backups:  0 MB 
+2025-08-16,13:34:23:848822,DEBUG,Versions: (0 B)
+2025-08-16,13:34:23:878978,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:34:23:910270,DEBUG,Available: (18.37 GB)
+2025-08-16,13:34:23:910628,INFO,Tasks complete. Closing browser.
+2025-08-16,13:34:30:423298,INFO,Launching browser
+2025-08-16,13:34:32:153420,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:34:35:655796,INFO,Login button clicked
+2025-08-16,13:34:35:656107,INFO,Waiting for homepage to load...
+2025-08-16,13:34:39:701082,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:34:44:986363,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:34:44:987121,DEBUG,Profile name: Kenneth Banks
+2025-08-16,13:34:44:987429,DEBUG,Email: sincereoil7@punkproof.com
+2025-08-16,13:34:44:987886,DEBUG,Plan: Free
+2025-08-16,13:34:45:040578,DEBUG,Cloud drive: (21.87 GB)
+2025-08-16,13:34:45:085999,DEBUG,Backups:  0 MB 
+2025-08-16,13:34:45:112349,DEBUG,Versions: (0 B)
+2025-08-16,13:34:45:139146,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:34:45:165882,DEBUG,Available: (0 B)
+2025-08-16,13:34:45:166125,INFO,Tasks complete. Closing browser.
+2025-08-16,13:34:51:704454,INFO,Launching browser
+2025-08-16,13:34:53:418722,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:34:56:937351,INFO,Login button clicked
+2025-08-16,13:34:56:937624,INFO,Waiting for homepage to load...
+2025-08-16,13:35:00:057784,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:35:04:744448,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:35:04:744779,DEBUG,Profile name: Donna Jackson
+2025-08-16,13:35:04:744976,DEBUG,Email: humorousoatmeal1@punkproof.com
+2025-08-16,13:35:04:745224,DEBUG,Plan: Free
+2025-08-16,13:35:04:802111,DEBUG,Cloud drive: (692.8 MB)
+2025-08-16,13:35:04:837596,DEBUG,Backups:  0 MB 
+2025-08-16,13:35:04:884520,DEBUG,Versions: (0 B)
+2025-08-16,13:35:04:934677,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:35:04:963810,DEBUG,Available: (19.32 GB)
+2025-08-16,13:35:04:964142,INFO,Tasks complete. Closing browser.
+2025-08-16,13:35:11:457214,INFO,Launching browser
+2025-08-16,13:35:13:178937,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:35:16:573534,INFO,Login button clicked
+2025-08-16,13:35:16:574004,INFO,Waiting for homepage to load...
+2025-08-16,13:35:22:257338,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:35:27:348879,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:35:27:349162,DEBUG,Profile name: Cassandra Haynes
+2025-08-16,13:35:27:349738,DEBUG,Email: boredwigeon5@punkproof.com
+2025-08-16,13:35:27:349908,DEBUG,Plan: Free
+2025-08-16,13:35:27:414264,DEBUG,Cloud drive: (1.21 GB)
+2025-08-16,13:35:27:442968,DEBUG,Backups:  0 MB 
+2025-08-16,13:35:27:488528,DEBUG,Versions: (0 B)
+2025-08-16,13:35:27:521900,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:35:27:550405,DEBUG,Available: (18.79 GB)
+2025-08-16,13:35:27:550731,INFO,Tasks complete. Closing browser.
+2025-08-16,13:35:34:063175,INFO,Launching browser
+2025-08-16,13:35:35:789818,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:35:39:235660,INFO,Login button clicked
+2025-08-16,13:35:39:237155,INFO,Waiting for homepage to load...
+2025-08-16,13:35:42:069417,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:35:47:234692,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:35:47:234960,DEBUG,Profile name: qing chy
+2025-08-16,13:35:47:235151,DEBUG,Email: dearraisins0@mechanicspedia.com
+2025-08-16,13:35:47:235359,DEBUG,Plan: Free
+2025-08-16,13:35:47:285259,DEBUG,Cloud drive: (3.81 GB)
+2025-08-16,13:35:47:311703,DEBUG,Backups:  0 MB 
+2025-08-16,13:35:47:344417,DEBUG,Versions: (0 B)
+2025-08-16,13:35:47:371794,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:35:47:394790,DEBUG,Available: (16.19 GB)
+2025-08-16,13:35:47:395039,INFO,Tasks complete. Closing browser.
+2025-08-16,13:35:54:240344,INFO,Launching browser
+2025-08-16,13:35:56:059397,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:35:59:816717,INFO,Login button clicked
+2025-08-16,13:35:59:816966,INFO,Waiting for homepage to load...
+2025-08-16,13:36:02:333398,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:36:07:517727,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:36:07:518046,DEBUG,Profile name: Kathleen Evans
+2025-08-16,13:36:07:518179,DEBUG,Email: boastfulboa9@punkproof.com
+2025-08-16,13:36:07:518265,DEBUG,Plan: Free
+2025-08-16,13:36:07:585937,DEBUG,Cloud drive: (1.65 GB)
+2025-08-16,13:36:07:662810,DEBUG,Backups:  0 MB 
+2025-08-16,13:36:07:692164,DEBUG,Versions: (0 B)
+2025-08-16,13:36:07:722215,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:36:07:748266,DEBUG,Available: (18.35 GB)
+2025-08-16,13:36:07:748491,INFO,Tasks complete. Closing browser.
+2025-08-16,13:36:14:433450,INFO,Launching browser
+2025-08-16,13:36:16:251214,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:36:19:792949,INFO,Login button clicked
+2025-08-16,13:36:19:793194,INFO,Waiting for homepage to load...
+2025-08-16,13:36:23:348758,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:36:28:545618,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:36:28:546263,DEBUG,Profile name: Robert Henry
+2025-08-16,13:36:28:546424,DEBUG,Email: euphoricsyrup0@punkproof.com
+2025-08-16,13:36:28:546521,DEBUG,Plan: Free
+2025-08-16,13:36:28:611504,DEBUG,Cloud drive: (4.25 GB)
+2025-08-16,13:36:28:637874,DEBUG,Backups:  0 MB 
+2025-08-16,13:36:28:663361,DEBUG,Versions: (0 B)
+2025-08-16,13:36:28:687661,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:36:28:741887,DEBUG,Available: (15.75 GB)
+2025-08-16,13:36:28:742262,INFO,Tasks complete. Closing browser.
+2025-08-16,13:36:35:385706,INFO,Launching browser
+2025-08-16,13:36:37:198027,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:36:40:633668,INFO,Login button clicked
+2025-08-16,13:36:40:634112,INFO,Waiting for homepage to load...
+2025-08-16,13:36:44:624961,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:36:49:793051,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:36:49:793325,DEBUG,Profile name: Krystal Jackson
+2025-08-16,13:36:49:793446,DEBUG,Email: lyingtortoise7@punkproof.com
+2025-08-16,13:36:49:793667,DEBUG,Plan: Free
+2025-08-16,13:36:49:844608,DEBUG,Cloud drive: (11.08 GB)
+2025-08-16,13:36:49:874225,DEBUG,Backups:  0 MB 
+2025-08-16,13:36:49:920011,DEBUG,Versions: (0 B)
+2025-08-16,13:36:49:945713,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:36:49:971554,DEBUG,Available: (8.92 GB)
+2025-08-16,13:36:49:971955,INFO,Tasks complete. Closing browser.
+2025-08-16,13:36:56:470247,INFO,Launching browser
+2025-08-16,13:36:58:203406,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:37:01:603418,INFO,Login button clicked
+2025-08-16,13:37:01:603808,INFO,Waiting for homepage to load...
+2025-08-16,13:37:03:735302,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:37:08:790282,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:37:08:790610,DEBUG,Profile name: qing chy
+2025-08-16,13:37:08:790974,DEBUG,Email: holisticrat0@mechanicspedia.com
+2025-08-16,13:37:08:791138,DEBUG,Plan: Free
+2025-08-16,13:37:08:872657,DEBUG,Cloud drive: (3.53 GB)
+2025-08-16,13:37:08:913281,DEBUG,Backups:  0 MB 
+2025-08-16,13:37:08:942015,DEBUG,Versions: (0 B)
+2025-08-16,13:37:08:999579,DEBUG,Rubbish bin: (956 KB)
+2025-08-16,13:37:09:029970,DEBUG,Available: (16.47 GB)
+2025-08-16,13:37:09:030297,INFO,Tasks complete. Closing browser.
+2025-08-16,13:37:15:523777,INFO,Launching browser
+2025-08-16,13:37:17:315742,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:37:20:816840,INFO,Login button clicked
+2025-08-16,13:37:20:817106,INFO,Waiting for homepage to load...
+2025-08-16,13:37:23:945535,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:37:29:017143,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:37:29:017575,DEBUG,Profile name: qing chy
+2025-08-16,13:37:29:017836,DEBUG,Email: gutturalcod5@mechanicspedia.com
+2025-08-16,13:37:29:018059,DEBUG,Plan: Free
+2025-08-16,13:37:29:081306,DEBUG,Cloud drive: (451.0 MB)
+2025-08-16,13:37:29:112156,DEBUG,Backups:  0 MB 
+2025-08-16,13:37:29:142098,DEBUG,Versions: (0 B)
+2025-08-16,13:37:29:183995,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:37:29:221970,DEBUG,Available: (19.56 GB)
+2025-08-16,13:37:29:222281,INFO,Tasks complete. Closing browser.
+2025-08-16,13:37:35:765313,INFO,Launching browser
+2025-08-16,13:37:37:413157,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:37:40:960954,INFO,Login button clicked
+2025-08-16,13:37:40:961254,INFO,Waiting for homepage to load...
+2025-08-16,13:37:45:356836,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:37:49:956702,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:37:49:957097,DEBUG,Profile name: Alice Burke
+2025-08-16,13:37:49:957291,DEBUG,Email: 
+2025-08-16,13:37:49:957391,DEBUG,Plan: 
+2025-08-16,13:37:50:044043,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:37:50:072663,DEBUG,Backups: 0 MB
+2025-08-16,13:37:50:105863,DEBUG,Versions: 0 MB
+2025-08-16,13:37:50:134512,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:37:50:232138,DEBUG,Available: (0 B)
+2025-08-16,13:37:50:232483,INFO,Tasks complete. Closing browser.
+2025-08-16,13:37:56:896775,INFO,Launching browser
+2025-08-16,13:37:58:654831,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:38:02:129628,INFO,Login button clicked
+2025-08-16,13:38:02:129951,INFO,Waiting for homepage to load...
+2025-08-16,13:38:09:172288,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:38:14:531278,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:38:14:531532,DEBUG,Profile name: Preston Park
+2025-08-16,13:38:14:532079,DEBUG,Email: emptycordial2@punkproof.com
+2025-08-16,13:38:14:532306,DEBUG,Plan: Free
+2025-08-16,13:38:14:637995,DEBUG,Cloud drive: (3.26 GB)
+2025-08-16,13:38:14:669330,DEBUG,Backups:  0 MB 
+2025-08-16,13:38:14:695763,DEBUG,Versions: (0 B)
+2025-08-16,13:38:14:724725,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:38:14:749561,DEBUG,Available: (16.74 GB)
+2025-08-16,13:38:14:749900,INFO,Tasks complete. Closing browser.
+2025-08-16,13:38:21:270293,INFO,Launching browser
+2025-08-16,13:38:23:103283,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:38:26:585905,INFO,Login button clicked
+2025-08-16,13:38:26:586243,INFO,Waiting for homepage to load...
+2025-08-16,13:38:32:931849,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:38:38:137010,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:38:38:137359,DEBUG,Profile name: Patrick Jones
+2025-08-16,13:38:38:137532,DEBUG,Email: 
+2025-08-16,13:38:38:137621,DEBUG,Plan: 
+2025-08-16,13:38:38:192123,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:38:38:219781,DEBUG,Backups: 0 MB
+2025-08-16,13:38:38:248467,DEBUG,Versions: 0 MB
+2025-08-16,13:38:38:276306,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:38:38:341009,DEBUG,Available: 0 MB
+2025-08-16,13:38:38:341335,INFO,Tasks complete. Closing browser.
+2025-08-16,13:38:44:869363,INFO,Launching browser
+2025-08-16,13:38:46:649362,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:38:50:170997,INFO,Login button clicked
+2025-08-16,13:38:50:171304,INFO,Waiting for homepage to load...
+2025-08-16,13:38:54:110202,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:38:59:273489,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:38:59:273921,DEBUG,Profile name: Jeffrey Noble
+2025-08-16,13:38:59:274274,DEBUG,Email: worldlycordial6@punkproof.com
+2025-08-16,13:38:59:274565,DEBUG,Plan: Free
+2025-08-16,13:38:59:342938,DEBUG,Cloud drive: (7.79 GB)
+2025-08-16,13:38:59:368854,DEBUG,Backups:  0 MB 
+2025-08-16,13:38:59:393725,DEBUG,Versions: (0 B)
+2025-08-16,13:38:59:469686,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:38:59:499778,DEBUG,Available: (12.21 GB)
+2025-08-16,13:38:59:499969,INFO,Tasks complete. Closing browser.
+2025-08-16,13:39:06:000587,INFO,Launching browser
+2025-08-16,13:39:07:711622,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:39:11:126905,INFO,Login button clicked
+2025-08-16,13:39:11:127313,INFO,Waiting for homepage to load...
+2025-08-16,13:39:14:969682,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:39:19:584491,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:39:19:584882,DEBUG,Profile name: Margaret Mcpherson
+2025-08-16,13:39:19:585210,DEBUG,Email: 
+2025-08-16,13:39:19:585483,DEBUG,Plan: 
+2025-08-16,13:39:19:639726,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:39:19:668456,DEBUG,Backups: 0 MB
+2025-08-16,13:39:19:697450,DEBUG,Versions: 0 MB
+2025-08-16,13:39:19:726727,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:39:19:757918,DEBUG,Available: 0 MB
+2025-08-16,13:39:19:758202,INFO,Tasks complete. Closing browser.
+2025-08-16,13:39:26:316619,INFO,Launching browser
+2025-08-16,13:39:28:043320,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:39:31:488318,INFO,Login button clicked
+2025-08-16,13:39:31:488618,INFO,Waiting for homepage to load...
+2025-08-16,13:39:35:057561,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:39:40:145854,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:39:40:146123,DEBUG,Profile name: Derrick Cooper
+2025-08-16,13:39:40:146265,DEBUG,Email: abjecticecream2@punkproof.com
+2025-08-16,13:39:40:146455,DEBUG,Plan: Free
+2025-08-16,13:39:40:196728,DEBUG,Cloud drive: (2.19 GB)
+2025-08-16,13:39:40:238695,DEBUG,Backups:  0 MB 
+2025-08-16,13:39:40:267927,DEBUG,Versions: (0 B)
+2025-08-16,13:39:40:346028,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:39:40:376739,DEBUG,Available: (17.81 GB)
+2025-08-16,13:39:40:377213,INFO,Tasks complete. Closing browser.
+2025-08-16,13:39:46:927229,INFO,Launching browser
+2025-08-16,13:39:48:688651,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:39:52:183411,INFO,Login button clicked
+2025-08-16,13:39:52:183663,INFO,Waiting for homepage to load...
+2025-08-16,13:39:57:135242,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:40:02:297322,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:40:02:297582,DEBUG,Profile name: qing chy
+2025-08-16,13:40:02:297864,DEBUG,Email: pacifiedponie1@mechanicspedia.com
+2025-08-16,13:40:02:298102,DEBUG,Plan: Free
+2025-08-16,13:40:02:346269,DEBUG,Cloud drive: (1.96 GB)
+2025-08-16,13:40:02:373994,DEBUG,Backups:  0 MB 
+2025-08-16,13:40:02:405487,DEBUG,Versions: (0 B)
+2025-08-16,13:40:02:452276,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:40:02:487481,DEBUG,Available: (18.04 GB)
+2025-08-16,13:40:02:487758,INFO,Tasks complete. Closing browser.
+2025-08-16,13:40:08:983519,INFO,Launching browser
+2025-08-16,13:40:10:765842,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:40:14:239350,INFO,Login button clicked
+2025-08-16,13:40:14:239623,INFO,Waiting for homepage to load...
+2025-08-16,13:40:16:329064,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:40:20:362856,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:40:20:365120,DEBUG,Profile name: qing chy
+2025-08-16,13:40:20:367430,DEBUG,Email: 
+2025-08-16,13:40:20:367607,DEBUG,Plan: 
+2025-08-16,13:40:20:446501,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:40:20:480750,DEBUG,Backups: 0 MB
+2025-08-16,13:40:20:512806,DEBUG,Versions: 0 MB
+2025-08-16,13:40:20:620492,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:40:20:645427,DEBUG,Available: (14.98 GB)
+2025-08-16,13:40:20:645604,INFO,Tasks complete. Closing browser.
+2025-08-16,13:40:27:197082,INFO,Launching browser
+2025-08-16,13:40:28:957969,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:40:32:465116,INFO,Login button clicked
+2025-08-16,13:40:32:465515,INFO,Waiting for homepage to load...
+2025-08-16,13:40:36:297404,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:40:40:897821,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:40:40:898068,DEBUG,Profile name: qing chy
+2025-08-16,13:40:40:898258,DEBUG,Email: 
+2025-08-16,13:40:40:898538,DEBUG,Plan: 
+2025-08-16,13:40:40:983849,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:40:41:013186,DEBUG,Backups: 0 MB
+2025-08-16,13:40:41:038945,DEBUG,Versions: 0 MB
+2025-08-16,13:40:41:139672,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:40:41:194855,DEBUG,Available: (11.46 GB)
+2025-08-16,13:40:41:195061,INFO,Tasks complete. Closing browser.
+2025-08-16,13:40:47:711144,INFO,Launching browser
+2025-08-16,13:40:49:419104,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:40:52:855096,INFO,Login button clicked
+2025-08-16,13:40:52:855379,INFO,Waiting for homepage to load...
+2025-08-16,13:40:56:292245,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:41:01:409914,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:41:01:410242,DEBUG,Profile name: Laura Keith
+2025-08-16,13:41:01:411293,DEBUG,Email: 
+2025-08-16,13:41:01:411468,DEBUG,Plan: 
+2025-08-16,13:41:01:519231,DEBUG,Cloud drive: (7.52 GB)
+2025-08-16,13:41:01:544430,DEBUG,Backups:  0 MB 
+2025-08-16,13:41:01:602915,DEBUG,Versions: (0 B)
+2025-08-16,13:41:01:635021,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:41:01:676092,DEBUG,Available: (12.48 GB)
+2025-08-16,13:41:01:676324,INFO,Tasks complete. Closing browser.
+2025-08-16,13:41:08:178375,INFO,Launching browser
+2025-08-16,13:41:09:919760,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:41:13:451715,INFO,Login button clicked
+2025-08-16,13:41:13:452035,INFO,Waiting for homepage to load...
+2025-08-16,13:41:17:174442,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:41:21:795948,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:41:21:796298,DEBUG,Profile name: Michael Kerr
+2025-08-16,13:41:21:797083,DEBUG,Email: 
+2025-08-16,13:41:21:797205,DEBUG,Plan: 
+2025-08-16,13:41:21:851033,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:41:21:880906,DEBUG,Backups: 0 MB
+2025-08-16,13:41:21:909444,DEBUG,Versions: 0 MB
+2025-08-16,13:41:21:938167,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:41:21:966488,DEBUG,Available: 0 MB
+2025-08-16,13:41:21:966751,INFO,Tasks complete. Closing browser.
+2025-08-16,13:41:28:459597,INFO,Launching browser
+2025-08-16,13:41:30:233367,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:41:33:801375,INFO,Login button clicked
+2025-08-16,13:41:33:801654,INFO,Waiting for homepage to load...
+2025-08-16,13:41:38:045713,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:41:42:683376,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:41:42:683624,DEBUG,Profile name: qing chy
+2025-08-16,13:41:42:683822,DEBUG,Email: 
+2025-08-16,13:41:42:684045,DEBUG,Plan: 
+2025-08-16,13:41:42:740747,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:41:42:771889,DEBUG,Backups: 0 MB
+2025-08-16,13:41:42:857440,DEBUG,Versions: (0 B)
+2025-08-16,13:41:42:923487,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:41:42:965956,DEBUG,Available: (19.01 GB)
+2025-08-16,13:41:42:966168,INFO,Tasks complete. Closing browser.
+2025-08-16,13:41:49:565810,INFO,Launching browser
+2025-08-16,13:41:51:316028,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:41:54:849549,INFO,Login button clicked
+2025-08-16,13:41:54:849916,INFO,Waiting for homepage to load...
+2025-08-16,13:41:58:952431,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:42:04:111935,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:42:04:112138,DEBUG,Profile name: qing chy
+2025-08-16,13:42:04:112326,DEBUG,Email: offendedrice4@mechanicspedia.com
+2025-08-16,13:42:04:112526,DEBUG,Plan: Free
+2025-08-16,13:42:04:163205,DEBUG,Cloud drive: (7.45 GB)
+2025-08-16,13:42:04:188163,DEBUG,Backups:  0 MB 
+2025-08-16,13:42:04:212442,DEBUG,Versions: (0 B)
+2025-08-16,13:42:04:240508,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:42:04:281910,DEBUG,Available: (12.55 GB)
+2025-08-16,13:42:04:282177,INFO,Tasks complete. Closing browser.
+2025-08-16,13:42:10:834060,INFO,Launching browser
+2025-08-16,13:42:12:615717,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:42:16:165330,INFO,Login button clicked
+2025-08-16,13:42:16:165667,INFO,Waiting for homepage to load...
+2025-08-16,13:42:19:693889,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:42:24:839513,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:42:24:839777,DEBUG,Profile name: Maxwell Baker
+2025-08-16,13:42:24:840018,DEBUG,Email: hushedmussel2@punkproof.com
+2025-08-16,13:42:24:840271,DEBUG,Plan: Free
+2025-08-16,13:42:24:915281,DEBUG,Cloud drive: (20.26 GB)
+2025-08-16,13:42:24:958909,DEBUG,Backups:  0 MB 
+2025-08-16,13:42:24:986262,DEBUG,Versions: (0 B)
+2025-08-16,13:42:25:049799,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:42:25:080208,DEBUG,Available: (0 B)
+2025-08-16,13:42:25:080512,INFO,Tasks complete. Closing browser.
+2025-08-16,13:42:31:618548,INFO,Launching browser
+2025-08-16,13:42:33:441824,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:42:36:852890,INFO,Login button clicked
+2025-08-16,13:42:36:853304,INFO,Waiting for homepage to load...
+2025-08-16,13:42:39:151642,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:42:44:298965,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:42:44:299336,DEBUG,Profile name: Ashley Lopez
+2025-08-16,13:42:44:299556,DEBUG,Email: boredlocust9@punkproof.com
+2025-08-16,13:42:44:299717,DEBUG,Plan: Free
+2025-08-16,13:42:44:404927,DEBUG,Cloud drive: (470.2 MB)
+2025-08-16,13:42:44:434398,DEBUG,Backups:  0 MB 
+2025-08-16,13:42:44:457880,DEBUG,Versions: (0 B)
+2025-08-16,13:42:44:482741,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:42:44:529280,DEBUG,Available: (19.54 GB)
+2025-08-16,13:42:44:529560,INFO,Tasks complete. Closing browser.
+2025-08-16,13:42:51:017136,INFO,Launching browser
+2025-08-16,13:42:52:847420,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:42:56:257953,INFO,Login button clicked
+2025-08-16,13:42:56:258215,INFO,Waiting for homepage to load...
+2025-08-16,13:43:01:684296,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:43:06:306583,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:43:06:306911,DEBUG,Profile name: qing chy
+2025-08-16,13:43:06:307183,DEBUG,Email: 
+2025-08-16,13:43:06:307429,DEBUG,Plan: Free
+2025-08-16,13:43:06:360748,DEBUG,Cloud drive: (1.21 GB)
+2025-08-16,13:43:06:388165,DEBUG,Backups:  0 MB 
+2025-08-16,13:43:06:478168,DEBUG,Versions: (0 B)
+2025-08-16,13:43:06:516408,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:43:06:559285,DEBUG,Available: (18.79 GB)
+2025-08-16,13:43:06:559637,INFO,Tasks complete. Closing browser.
+2025-08-16,13:43:13:084036,INFO,Launching browser
+2025-08-16,13:43:14:873056,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:43:18:369849,INFO,Login button clicked
+2025-08-16,13:43:18:370116,INFO,Waiting for homepage to load...
+2025-08-16,13:43:21:134423,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:43:26:291388,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:43:26:291615,DEBUG,Profile name: qing chy
+2025-08-16,13:43:26:291712,DEBUG,Email: euphoricmare4@mechanicspedia.com
+2025-08-16,13:43:26:291925,DEBUG,Plan: Free
+2025-08-16,13:43:26:343225,DEBUG,Cloud drive: (8.58 GB)
+2025-08-16,13:43:26:368917,DEBUG,Backups:  0 MB 
+2025-08-16,13:43:26:394941,DEBUG,Versions: (0 B)
+2025-08-16,13:43:26:420357,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:43:26:445136,DEBUG,Available: (11.42 GB)
+2025-08-16,13:43:26:445406,INFO,Tasks complete. Closing browser.
+2025-08-16,13:43:32:938016,INFO,Launching browser
+2025-08-16,13:43:34:703104,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:43:38:270941,INFO,Login button clicked
+2025-08-16,13:43:38:271324,INFO,Waiting for homepage to load...
+2025-08-16,13:43:40:210434,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:43:45:316847,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:43:45:317363,DEBUG,Profile name: qing chy
+2025-08-16,13:43:45:317582,DEBUG,Email: 
+2025-08-16,13:43:45:317812,DEBUG,Plan: 
+2025-08-16,13:43:45:410207,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:43:45:443676,DEBUG,Backups: 0 MB
+2025-08-16,13:43:45:473936,DEBUG,Versions: 0 MB
+2025-08-16,13:43:45:502974,DEBUG,Rubbish bin: 0 MB
+2025-08-16,13:43:45:538653,DEBUG,Available: 0 MB
+2025-08-16,13:43:45:539005,INFO,Tasks complete. Closing browser.
+2025-08-16,13:43:52:104276,INFO,Launching browser
+2025-08-16,13:43:53:854660,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:43:57:378748,INFO,Login button clicked
+2025-08-16,13:43:57:379000,INFO,Waiting for homepage to load...
+2025-08-16,13:44:03:280917,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:44:08:448999,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:44:08:449833,DEBUG,Profile name: qing chy
+2025-08-16,13:44:08:450046,DEBUG,Email: selfishapples7@mechanicspedia.com
+2025-08-16,13:44:08:450320,DEBUG,Plan: Free
+2025-08-16,13:44:08:508065,DEBUG,Cloud drive: (21.72 GB)
+2025-08-16,13:44:08:554348,DEBUG,Backups:  0 MB 
+2025-08-16,13:44:08:587430,DEBUG,Versions: (0 B)
+2025-08-16,13:44:08:616168,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:44:08:650849,DEBUG,Available: (0 B)
+2025-08-16,13:44:08:651087,INFO,Tasks complete. Closing browser.
+2025-08-16,13:44:15:167829,INFO,Launching browser
+2025-08-16,13:44:16:959924,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:44:20:383534,INFO,Login button clicked
+2025-08-16,13:44:20:383782,INFO,Waiting for homepage to load...
+2025-08-16,13:44:24:861315,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:44:29:452337,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:44:29:452725,DEBUG,Profile name: qing chy
+2025-08-16,13:44:29:452867,DEBUG,Email: 
+2025-08-16,13:44:29:453271,DEBUG,Plan: 
+2025-08-16,13:44:29:513177,DEBUG,Cloud drive: 0 MB
+2025-08-16,13:44:29:541364,DEBUG,Backups: 0 MB
+2025-08-16,13:44:29:627618,DEBUG,Versions: (0 B)
+2025-08-16,13:44:29:698076,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:44:29:735317,DEBUG,Available: (13.01 GB)
+2025-08-16,13:44:29:735605,INFO,Tasks complete. Closing browser.
+2025-08-16,13:44:36:380009,INFO,Launching browser
+2025-08-16,13:44:38:473839,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:44:42:010389,INFO,Login button clicked
+2025-08-16,13:44:42:010715,INFO,Waiting for homepage to load...
+2025-08-16,13:44:44:897405,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:44:48:933503,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:44:48:934842,DEBUG,Profile name: qing chy
+2025-08-16,13:44:48:935040,DEBUG,Email: madpoultry3@mechanicspedia.com
+2025-08-16,13:44:48:935181,DEBUG,Plan: Free
+2025-08-16,13:44:49:046144,DEBUG,Cloud drive: (956 KB)
+2025-08-16,13:44:49:075445,DEBUG,Backups:  0 MB 
+2025-08-16,13:44:49:107706,DEBUG,Versions: (0 B)
+2025-08-16,13:44:49:141905,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:44:49:188450,DEBUG,Available: (20.00 GB)
+2025-08-16,13:44:49:188821,INFO,Tasks complete. Closing browser.
+2025-08-16,13:44:55:687337,INFO,Launching browser
+2025-08-16,13:44:57:386385,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-16,13:45:00:799389,INFO,Login button clicked
+2025-08-16,13:45:00:799825,INFO,Waiting for homepage to load...
+2025-08-16,13:45:03:912337,INFO,Logged in successfully and homepage loaded.
+2025-08-16,13:45:08:518813,INFO,Getting storage details from 'https://mega.nz/fm/dashboard'
+2025-08-16,13:45:08:519089,DEBUG,Profile name: qing chy
+2025-08-16,13:45:08:519305,DEBUG,Email: 
+2025-08-16,13:45:08:519473,DEBUG,Plan: 
+2025-08-16,13:45:08:628590,DEBUG,Cloud drive: (3.76 GB)
+2025-08-16,13:45:08:660872,DEBUG,Backups:  0 MB 
+2025-08-16,13:45:08:690501,DEBUG,Versions: (0 B)
+2025-08-16,13:45:08:734188,DEBUG,Rubbish bin: (0 B)
+2025-08-16,13:45:08:761742,DEBUG,Available: (16.24 GB)
+2025-08-16,13:45:08:762168,INFO,Tasks complete. Closing browser.
