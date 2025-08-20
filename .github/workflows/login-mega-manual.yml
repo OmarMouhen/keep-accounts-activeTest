@@ -1,4 +1,3 @@
-# This workflow is manually triggered and will call the reusable workflow.
 name: login-mega-manual
 
 on:
@@ -20,7 +19,6 @@ jobs:
         run: |
           IFS=- read -ra Arr <<< "${{ github.workflow }}"
           folder="${Arr[1]}"
-          echo "folder name is $folder"
           echo "foldername=$folder" >> "$GITHUB_OUTPUT"
 
       - name: Is the workflow manually or automatically triggered?
@@ -28,7 +26,6 @@ jobs:
         run: |
           IFS=- read -ra Arr <<< "${{ github.workflow }}"
           mode="${Arr[2]}"
-          echo "Trigger mode: $mode"
           echo "modename=$mode" >> "$GITHUB_OUTPUT"
 
   call-workflow:
@@ -38,6 +35,8 @@ jobs:
       folder: ${{ needs.workflow-info.outputs.output1 }}     # ex: "mega"
       mode: ${{ needs.workflow-info.outputs.output2 }}        # ex: "manual"
       platform-name: Mega
+      script-path: keep-mega-active.py                       # Nom exact du script trouvé
+      target-branch: main                                    # Branche par défaut confirmée
     secrets:
-      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}  # PAT avec scope repo
+      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
       MEGA: ${{ secrets.MEGA }}
