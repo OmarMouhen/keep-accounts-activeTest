@@ -6,8 +6,8 @@ on:
       folder:           { type: string, required: true }
       mode:             { type: string, required: true }
       platform-name:    { type: string, required: true }
-      script-path:      { type: string, required: true }  # keep-mega-active.py
-      target-branch:    { type: string, required: true }  # main
+      script-path:      { type: string, required: true }
+      target-branch:    { type: string, required: true }
     secrets:
       WORKFLOW_TOKEN:   { required: true }
       MEGA:             { required: true }
@@ -15,12 +15,11 @@ on:
 jobs:
   autolog:
     runs-on: ubuntu-latest
-    # le job a besoin d'écrire pour push
     permissions:
       contents: write
 
     env:
-      TARGET_DIR: ${{ inputs.folder }}-log   # ex: mega-log
+      TARGET_DIR: ${{ inputs.folder }}-log
       PLATFORM:   ${{ inputs.platform-name }}
 
     steps:
@@ -64,95 +63,13 @@ jobs:
           set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           BRANCH="${{ inputs['target-branch'] }}"
           git checkout "$BRANCH" 2>/dev/null || git checkout -b "$BRANCH"
           git pull --rebase || true
-
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "chore: update ${PLATFORM} logs via CI [skip ci]"
             git push origin "$BRANCH"
-            echo "Pushed changes to $BRANCH."
-          else
-            echo "No changes to commit."
-          fi
-name: Reusable Autolog
-
-on:
-  workflow_call:
-    inputs:
-      folder:           { type: string, required: true }
-      mode:             { type: string, required: true }
-      platform-name:    { type: string, required: true }
-      script-path:      { type: string, required: true }  # keep-mega-active.py
-      target-branch:    { type: string, required: true }  # main
-    secrets:
-      WORKFLOW_TOKEN:   { required: true }
-      MEGA:             { required: true }
-
-jobs:
-  autolog:
-    runs-on: ubuntu-latest
-    # le job a besoin d'écrire pour push
-    permissions:
-      contents: write
-
-    env:
-      TARGET_DIR: ${{ inputs.folder }}-log   # ex: mega-log
-      PLATFORM:   ${{ inputs.platform-name }}
-
-    steps:
-      - name: Checkout current repo
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install requirements (optional)
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-      - name: Ensure clean target dir
-        run: rm -rf "$TARGET_DIR"
-
-      - name: Checkout private repo (keep-accounts-activeTest)
-        uses: actions/checkout@v4
-        with:
-          repository: OmarMouhen/keep-accounts-activeTest
-          path: ${{ env.TARGET_DIR }}
-          fetch-depth: 0
-          token: ${{ secrets.WORKFLOW_TOKEN }}
-
-      - name: Run Python script
-        env:
-          MEGA: ${{ secrets.MEGA }}
-          LOG_DIR: ${{ env.TARGET_DIR }}
-          MODE: ${{ inputs.mode }}
-          PLATFORM: ${{ env.PLATFORM }}
-        run: |
-          set -e
-          python "${{ inputs['script-path'] }}" --out "$LOG_DIR" --mode "$MODE" --platform "$PLATFORM"
-
-      - name: Commit and push if changes
-        working-directory: ${{ env.TARGET_DIR }}
-        run: |
-          set -e
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          BRANCH="${{ inputs['target-branch'] }}"
-          git checkout "$BRANCH" 2>/dev/null || git checkout -b "$BRANCH"
-          git pull --rebase || true
-
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            git commit -m "chore: update ${PLATFORM} logs via CI [skip ci]"
-            git push origin "$BRANCH"
-            echo "Pushed changes to $BRANCH."
           else
             echo "No changes to commit."
           fi
