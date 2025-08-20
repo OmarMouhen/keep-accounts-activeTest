@@ -3,7 +3,6 @@ name: login-mega-manual
 on:
   workflow_dispatch:
 
-# IMPORTANT : le workflow appelé a besoin de pousser des commits
 permissions:
   contents: write
 
@@ -36,11 +35,11 @@ jobs:
     needs: workflow-info
     uses: ./.github/workflows/reusable-autolog.yml
     with:
-      folder: ${{ needs.workflow-info.outputs.output1 }}     # ex: "mega"
-      mode: ${{ needs.workflow-info.outputs.output2 }}        # ex: "manual"
+      folder: ${{ needs.workflow-info.outputs.output1 }}
+      mode: ${{ needs.workflow-info.outputs.output2 }}
       platform-name: Mega
-      script-path: keep-mega-active.py                        # script confirmé
-      target-branch: main                                     # branche par défaut
+      script-path: keep-mega-active.py
+      target-branch: main
     secrets:
-      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}           # PAT (scope repo)
+      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
       MEGA: ${{ secrets.MEGA }}
