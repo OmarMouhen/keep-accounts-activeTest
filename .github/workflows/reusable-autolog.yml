@@ -3,20 +3,14 @@ name: Reusable Autolog
 on:
   workflow_call:
     inputs:
-      folder:
-        type: string
-        required: true
-      mode:
-        type: string
-        required: true
-      platform-name:
-        type: string
-        required: true
+      folder:        { type: string, required: true }
+      mode:          { type: string, required: true }
+      platform-name: { type: string, required: true }
+      script-path:   { type: string, required: true }  # keep-mega-active.py
+      target-branch: { type: string, required: true }  # main
     secrets:
-      WORKFLOW_TOKEN:
-        required: true
-      MEGA:
-        required: true
+      WORKFLOW_TOKEN: { required: true }
+      MEGA:           { required: true }
 
 jobs:
   autolog:
@@ -26,14 +20,12 @@ jobs:
 
     env:
       TARGET_DIR: ${{ inputs.folder }}-log   # ex: mega-log
-      PLATFORM: ${{ inputs.platform-name }}
+      PLATFORM:   ${{ inputs.platform-name }}
 
     steps:
-      # 0) Checkout du repo courant (celui qui contient ce workflow)
       - name: Checkout current repo
         uses: actions/checkout@v4
 
-      # 1) Setup Python (si ton script en a besoin)
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -44,11 +36,9 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 2) Nettoyer l'éventuel dossier existant (au cas où un précédent run l'aurait créé)
       - name: Ensure clean target dir
         run: rm -rf "$TARGET_DIR"
 
-      # 3) Checkout du dépôt privé dans $TARGET_DIR
       - name: Checkout private repo (keep-accounts-activeTest)
         uses: actions/checkout@v4
         with:
@@ -57,36 +47,32 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.WORKFLOW_TOKEN }}
 
-      # 4) Exécuter ton script (adapte le chemin/nom)
-      #    Exemple: le script écrit/maj des fichiers dans $TARGET_DIR
       - name: Run Python script
         env:
           MEGA: ${{ secrets.MEGA }}
+          LOG_DIR: ${{ env.TARGET_DIR }}
+          MODE: ${{ inputs.mode }}
+          PLATFORM: ${{ env.PLATFORM }}
         run: |
           set -e
-          # Exemple : adapte à ton projet
-          # python scripts/login_mega.py --out "$TARGET_DIR" --mode "${{ inputs.mode }}"
-          echo "Run your script here; write outputs into $TARGET_DIR"
+          python "${{ inputs['script-path'] }}" --out "$LOG_DIR" --mode "$MODE" --platform "$PLATFORM"
 
-      # 5) Commit & push uniquement s'il y a des changements
       - name: Commit and push if changes
         working-directory: ${{ env.TARGET_DIR }}
         run: |
           set -e
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Branche par défaut (main). Change 'main' si besoin.
-          DEFAULT_BRANCH="main"
-          git checkout "$DEFAULT_BRANCH" 2>/dev/null || git checkout -b "$DEFAULT_BRANCH"
-
+          BRANCH="${{ inputs['target-branch'] }}"
+          git checkout "$BRANCH" 2>/dev/null || git checkout -b "$BRANCH"
           git pull --rebase || true
 
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "chore: update ${PLATFORM} logs via CI [skip ci]"
-            git push origin "$DEFAULT_BRANCH"
-            echo "Pushed changes."
+            git push origin "$BRANCH"
+            echo "Pushed changes to $BRANCH."
           else
             echo "No changes to commit."
           fi
