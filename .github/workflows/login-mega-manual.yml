@@ -39,4 +39,8 @@ jobs:
       folder: ${{ needs.workflow-info.outputs.output1 }}     # ex: "mega"
       mode: ${{ needs.workflow-info.outputs.output2 }}        # ex: "manual"
       platform-name: Mega
-      script-path: keep-mega-act
+      script-path: keep-mega-active.py                        # script confirmé
+      target-branch: main                                     # branche par défaut
+    secrets:
+      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}           # PAT (scope repo)
+      MEGA: ${{ secrets.MEGA }}
