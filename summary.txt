@@ -1,6 +1,11 @@
 ============================================================
 ✅ Successfully logged in to:
-   (none)
+   - mega_1
+   - mega_2
+   - mega_3
+   - mega_4
+   - mega_5
+   - mega_6
 
 ❌ Failed to log in to:
    (none)

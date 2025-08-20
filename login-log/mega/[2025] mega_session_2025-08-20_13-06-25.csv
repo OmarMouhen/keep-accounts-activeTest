@@ -1,0 +1,19 @@
+Date,Time,Level,Message
+2025-08-20,13:06:25:653636,INFO,Launching browser
+2025-08-20,13:06:26:900532,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-20,13:06:31:723165,ERROR,"Exception during login flow: Page.fill: value: expected string, got object"
+2025-08-20,13:06:37:967483,INFO,Launching browser
+2025-08-20,13:06:39:019034,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-20,13:06:42:042197,ERROR,"Exception during login flow: Page.fill: value: expected string, got object"
+2025-08-20,13:06:47:882183,INFO,Launching browser
+2025-08-20,13:06:48:881861,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-20,13:06:53:002670,ERROR,"Exception during login flow: Page.fill: value: expected string, got object"
+2025-08-20,13:06:58:872124,INFO,Launching browser
+2025-08-20,13:06:59:909848,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-20,13:07:03:960601,ERROR,"Exception during login flow: Page.fill: value: expected string, got object"
+2025-08-20,13:07:09:809692,INFO,Launching browser
+2025-08-20,13:07:10:845793,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-20,13:07:13:993343,ERROR,"Exception during login flow: Page.fill: value: expected string, got object"
+2025-08-20,13:07:19:832323,INFO,Launching browser
+2025-08-20,13:07:20:908781,INFO,Retrieving login page 'https://mega.nz/login'
+2025-08-20,13:07:23:903157,ERROR,"Exception during login flow: Page.fill: value: expected string, got object"
