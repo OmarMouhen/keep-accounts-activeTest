@@ -3,6 +3,10 @@ name: login-mega-manual
 on:
   workflow_dispatch:
 
+# IMPORTANT : le workflow appelé a besoin de pousser des commits
+permissions:
+  contents: write
+
 concurrency:
   group: login-and-schedule
   cancel-in-progress: false
@@ -35,8 +39,4 @@ jobs:
       folder: ${{ needs.workflow-info.outputs.output1 }}     # ex: "mega"
       mode: ${{ needs.workflow-info.outputs.output2 }}        # ex: "manual"
       platform-name: Mega
-      script-path: keep-mega-active.py                       # Nom exact du script trouvé
-      target-branch: main                                    # Branche par défaut confirmée
-    secrets:
-      WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
-      MEGA: ${{ secrets.MEGA }}
+      script-path: keep-mega-act
